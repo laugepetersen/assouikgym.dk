@@ -1,6 +1,7 @@
 import { Footer } from '@/Footer/Component'
 import { Header } from '@/Header/Component'
 import { mergeOpenGraph } from '@/utilities/mergeOpenGraph'
+import { Analytics } from '@vercel/analytics/next'
 import type { Metadata } from 'next'
 import React from 'react'
 
@@ -19,6 +20,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         {children}
         <Footer />
         <ScrollToTop />
+        <Analytics />
       </body>
     </html>
   )
