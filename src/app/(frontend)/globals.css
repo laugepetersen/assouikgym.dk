@@ -1,0 +1,197 @@
+@import '../../../public/fonts/clash-grotesk/css/clash-grotesk.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Base typography - now using all CSS variables */
+  h1 {
+    font-size: var(--heading1-size);
+    font-weight: var(--heading1-weight);
+    line-height: var(--heading1-line-height);
+    letter-spacing: var(--heading1-letter-spacing);
+  }
+  h2 {
+    font-size: var(--heading2-size);
+    font-weight: var(--heading2-weight);
+    line-height: var(--heading2-line-height);
+    letter-spacing: var(--heading2-letter-spacing);
+  }
+  h3 {
+    font-size: var(--heading3-size);
+    font-weight: var(--heading3-weight);
+    line-height: var(--heading3-line-height);
+    letter-spacing: var(--heading3-letter-spacing);
+  }
+  h4 {
+    font-size: var(--heading4-size);
+    font-weight: var(--heading4-weight);
+    line-height: var(--heading4-line-height);
+    letter-spacing: var(--heading4-letter-spacing);
+  }
+
+  p {
+    font-size: var(--paragraph-size);
+    font-weight: var(--paragraph-weight);
+    line-height: var(--paragraph-line-height);
+    letter-spacing: var(--paragraph-letter-spacing);
+  }
+
+  small {
+    font-size: var(--small-size);
+    font-weight: var(--small-weight);
+    line-height: var(--small-line-height);
+    letter-spacing: var(--small-letter-spacing);
+  }
+
+  /* Shared properties */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  small,
+  .button-text {
+    color: var(--text-color);
+  }
+
+  .button-text {
+    font-size: var(--button-text-size);
+    font-weight: var(--button-text-weight);
+    line-height: var(--button-text-line-height);
+    letter-spacing: var(--button-text-letter-spacing);
+  }
+
+  /* Remove hardcoded defaults - these are now provided by the SiteSettingsProvider */
+  :root {
+    --font-family: ClashGrotesk-Variable;
+
+    /* Keep these as fallbacks only */
+    --heading1-size: 3rem;
+    --heading2-size: 2.5rem;
+    --heading3-size: 2rem;
+    --heading4-size: 1.5rem;
+    --paragraph-size: 1rem;
+    --small-size: 0.875rem;
+    --button-text-size: 1rem;
+
+    /* Color variables remain unchanged */
+    --brand-gradient: linear-gradient(45deg, #ffee03, #ffbf01);
+    --brand-color: #ffee03;
+    --black-gradient: linear-gradient(45deg, rgba(47, 47, 47, 0.95) 0%, rgba(0, 0, 0, 0.95) 100%);
+    --transparent: rgba(0, 0, 0, 0);
+    --black: #1f1f1f;
+    --text-secondary: rgba(31, 31, 31, 0.8);
+    --white: #ffffff;
+    --text-secondary-inversed: rgba(255, 255, 255, 0.8);
+    --beige: #f5f1ee;
+
+    --background-color: var(--beige);
+    --text-color: var(--black);
+  }
+
+  [data-theme='dark'] {
+    --background-color: var(--black);
+    --text-color: var(--white);
+    --background: var(--black);
+    --foreground: var(--white);
+    --card: 0 0% 12%;
+    --card-foreground: 0 0% 100%;
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 100%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground min-h-[100vh] flex flex-col;
+  }
+}
+
+/* Rest of your existing utility classes remain unchanged */
+@layer utilities {
+  .brand-gradient-bg {
+    background: var(--brand-gradient);
+  }
+  .black-gradient-bg {
+    background: var(--black-gradient);
+  }
+  .text-primary {
+    color: var(--white);
+  }
+  .text-primary-inversed {
+    color: var(--white);
+  }
+  .text-secondary {
+    color: var(--text-secondary);
+  }
+  .text-secondary-inversed {
+    color: var(--text-secondary-inversed);
+  }
+  .bg-beige {
+    background-color: var(--beige);
+  }
+}
+
+/* Rest of your existing global styles */
+html {
+  opacity: 0;
+}
+html[data-theme='dark'],
+html[data-theme='light'] {
+  opacity: initial;
+}
+
+.site-loaded {
+  transition: opacity 0.3s ease-in;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.react-player video {
+  object-fit: cover;
+}
+
+.list-bullet li,
+.list-number li {
+  display: list-item;
+  margin-bottom: 0.5em;
+}
+
+/* Alternative approach if the above doesn't work */
+ul[class*="list-bullet"] {
+  list-style: disc !important;
+  margin-left: 20px;
+}
+
+ul[class*="list-bullet"] ul[class*="list-bullet"] {
+  list-style: circle !important;
+}
+
+ul[class*="list-bullet"] ul[class*="list-bullet"] ul[class*="list-bullet"] {
+  list-style: square !important;
+}
+
+ol[class*="list-number"] {
+  list-style: decimal !important;
+  margin-left: 20px;
+}
+
+ol[class*="list-number"] ol[class*="list-number"] {
+  list-style: lower-alpha !important;
+}
+
+ol[class*="list-number"] ol[class*="list-number"] ol[class*="list-number"] {
+  list-style: lower-roman !important;
+}
