@@ -6,9 +6,6 @@ node_modules
 .next
 .vercel
 
-# Payload default media upload directory
-public/media/
-
 public/robots.txt
 public/sitemap*.xml
 sync-scripts/server_db_backup.dump
