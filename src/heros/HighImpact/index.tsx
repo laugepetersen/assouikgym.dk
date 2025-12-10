@@ -1,11 +1,10 @@
 'use client'
-import { useHeaderTheme } from '@/providers/HeaderTheme'
-import React, { useEffect, useState } from 'react'
-import type { Media as MediaType, Page } from '@/payload-types'
 import { CMSLink } from '@/components/Link'
 import { Media } from '@/components/Media'
 import { CheckmarkIcon } from '@/components/ui/SVGIcons'
 import BreakText from '@/components/ui/breakText'
+import type { Media as MediaType, Page } from '@/payload-types'
+import React, { useEffect, useState } from 'react'
 
 type ExtendedHero = Omit<Page['hero'], 'media'> & {
   backgroundLayers?: {
@@ -80,7 +79,6 @@ export const HighImpactHero: React.FC<ExtendedHero> = ({
   ownerTitle,
   brandLogo,
 }) => {
-  const { setHeaderTheme } = useHeaderTheme()
   const [isVideoLoaded, setIsVideoLoaded] = useState(false)
   const [videoAttempted, setVideoAttempted] = useState(false)
   const [fallbackLoaded, setFallbackLoaded] = useState(false)
@@ -91,11 +89,6 @@ export const HighImpactHero: React.FC<ExtendedHero> = ({
     typeof backgroundLayers.baseLayer.fallbackImage === 'object'
       ? backgroundLayers.baseLayer.fallbackImage.url
       : null
-
-  // Set header theme immediately
-  useEffect(() => {
-    setHeaderTheme('light')
-  }, [setHeaderTheme])
 
   // Preload fallback image immediately on mount
   useEffect(() => {

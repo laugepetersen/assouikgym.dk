@@ -2713,7 +2713,7 @@ export interface Auth {
   [k: string]: unknown;
 }
 
-
-declare module 'payload' {
-  export interface GeneratedTypes extends Config {}
-}
+// Module augmentation removed - site is now static and doesn't use Payload CMS
+// declare module 'payload' {
+//   export interface GeneratedTypes extends Config {}
+// }

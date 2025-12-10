@@ -68,20 +68,53 @@
     letter-spacing: var(--button-text-letter-spacing);
   }
 
-  /* Remove hardcoded defaults - these are now provided by the SiteSettingsProvider */
+  /* Site settings - values from data/globals/site-settings.json */
   :root {
     --font-family: ClashGrotesk-Variable;
 
-    /* Keep these as fallbacks only */
+    /* Typography - Heading 1 */
     --heading1-size: 3rem;
-    --heading2-size: 2.5rem;
-    --heading3-size: 2rem;
-    --heading4-size: 1.5rem;
-    --paragraph-size: 1rem;
-    --small-size: 0.875rem;
-    --button-text-size: 1rem;
+    --heading1-weight: 600;
+    --heading1-line-height: 1.2;
+    --heading1-letter-spacing: -0.02em;
 
-    /* Color variables remain unchanged */
+    /* Typography - Heading 2 */
+    --heading2-size: 46px;
+    --heading2-weight: 600;
+    --heading2-line-height: 110%;
+    --heading2-letter-spacing: 2%;
+
+    /* Typography - Heading 3 */
+    --heading3-size: 36px;
+    --heading3-weight: 500;
+    --heading3-line-height: 120%;
+    --heading3-letter-spacing: 2%;
+
+    /* Typography - Heading 4 */
+    --heading4-size: 1.5rem;
+    --heading4-weight: 500;
+    --heading4-line-height: 1.35;
+    --heading4-letter-spacing: 0.01em;
+
+    /* Typography - Paragraph */
+    --paragraph-size: 16px;
+    --paragraph-weight: 400;
+    --paragraph-line-height: 160%;
+    --paragraph-letter-spacing: 2%;
+
+    /* Typography - Small */
+    --small-size: 0.875rem;
+    --small-weight: 400;
+    --small-line-height: 1.6;
+    --small-letter-spacing: 0.01em;
+
+    /* Typography - Button Text */
+    --button-text-size: 1rem;
+    --button-text-weight: 600;
+    --button-text-line-height: 1.5;
+    --button-text-letter-spacing: 0.025em;
+
+    /* Colors */
     --brand-gradient: linear-gradient(45deg, #ffee03, #ffbf01);
     --brand-color: #ffee03;
     --brand-start: #ffee03;
