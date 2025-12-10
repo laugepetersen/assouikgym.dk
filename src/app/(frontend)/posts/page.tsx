@@ -1,31 +1,22 @@
-import type { Metadata } from 'next/types'
+import type { Metadata } from 'next'
 
 import { CollectionArchive } from '@/components/CollectionArchive'
 import { PageRange } from '@/components/PageRange'
 import { Pagination } from '@/components/Pagination'
-import configPromise from '@payload-config'
-import { getPayload } from 'payload'
-import React from 'react'
+import { getAllStaticPosts } from '@/data/staticData'
 import PageClient from './page.client'
 
 export const dynamic = 'force-static'
 export const revalidate = 600
 
 export default async function Page() {
-  const payload = await getPayload({ config: configPromise })
+  const allPosts = getAllStaticPosts()
 
-  const posts = await payload.find({
-    collection: 'posts',
-    depth: 1,
-    limit: 12,
-    overrideAccess: false,
-    select: {
-      title: true,
-      slug: true,
-      categories: true,
-      meta: true,
-    },
-  })
+  // Paginate manually (12 per page)
+  const limit = 12
+  const posts = allPosts.slice(0, limit)
+  const totalDocs = allPosts.length
+  const totalPages = Math.ceil(totalDocs / limit)
 
   return (
     <div className="pt-24 pb-24">
@@ -37,20 +28,13 @@ export default async function Page() {
       </div>
 
       <div className="container mb-8">
-        <PageRange
-          collection="posts"
-          currentPage={posts.page}
-          limit={12}
-          totalDocs={posts.totalDocs}
-        />
+        <PageRange collection="posts" currentPage={1} limit={12} totalDocs={totalDocs} />
       </div>
 
-      <CollectionArchive posts={posts.docs} />
+      <CollectionArchive posts={posts} />
 
       <div className="container">
-        {posts.totalPages > 1 && posts.page && (
-          <Pagination page={posts.page} totalPages={posts.totalPages} />
-        )}
+        {totalPages > 1 && <Pagination page={1} totalPages={totalPages} />}
       </div>
     </div>
   )

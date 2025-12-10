@@ -1,0 +1,148 @@
+{
+  "id": 1,
+  "navItems": [
+    {
+      "id": "67f1155240194d6d3ae922cf",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 2,
+            "title": "Hold & Skema",
+            "slug": "hold-og-skema"
+          }
+        },
+        "url": "/hold--skema",
+        "label": "Hold & Skem"
+      }
+    },
+    {
+      "id": "67f1156140194d6d3ae922d0",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 3,
+            "title": "Priser & Medlemskaber",
+            "slug": "priser-og-medlemskaber"
+          }
+        },
+        "url": "/priser",
+        "label": "Priser"
+      }
+    },
+    {
+      "id": "67f115e740194d6d3ae922d6",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 4,
+            "title": "Om Klubben",
+            "slug": "om-klubben"
+          }
+        },
+        "url": "/om-klubben",
+        "label": "Om Klubben"
+      }
+    },
+    {
+      "id": "68482f051bde2b532cbad066",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 8,
+            "title": "Trænere",
+            "slug": "traenere"
+          }
+        },
+        "url": null,
+        "label": "Trænere"
+      }
+    },
+    {
+      "id": "67f1161c40194d6d3ae922da",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 5,
+            "title": "Lej Klubben",
+            "slug": "lej-klubben"
+          }
+        },
+        "url": "/lej-klubben",
+        "label": "Lej Klubben"
+      }
+    },
+    {
+      "id": "68409e8306606919ea56bf6f",
+      "subMenu": [],
+      "link": {
+        "type": "reference",
+        "newTab": null,
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "id": 7,
+            "title": "Personlig Træning",
+            "slug": "personlig-traening"
+          }
+        },
+        "url": null,
+        "label": "Personlig Træning"
+      }
+    }
+  ],
+  "buttons": {
+    "links": [
+      {
+        "id": "67f1162740194d6d3ae922db",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register?subscription_id=6834635c-0888-43ee-8e09-0079ac12000a",
+          "label": "Book prøvetime",
+          "appearance": "glassyGradient"
+        }
+      },
+      {
+        "id": "67f1163540194d6d3ae922dc",
+        "link": {
+          "type": "reference",
+          "newTab": false,
+          "reference": {
+            "relationTo": "pages",
+            "value": {
+              "id": 3,
+              "title": "Priser & Medlemskaber",
+              "slug": "priser-og-medlemskaber"
+            }
+          },
+          "url": "/Blivmedlem",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      }
+    ]
+  },
+  "updatedAt": "2025-06-10T13:11:51.553Z",
+  "createdAt": "2025-04-05T11:38:12.031Z",
+  "globalType": "header"
+}

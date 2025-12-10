@@ -1,0 +1,166 @@
+[
+  {
+    "id": 13,
+    "title": "Minihold",
+    "slug": "minihold",
+    "slugLock": true,
+    "price": "155 dkk / md",
+    "popular": false,
+    "badgeText": "Populær",
+    "ageGroup": "3-6 år",
+    "features": [
+      {
+        "id": "68409ad8390a4103f3448cb9",
+        "description": "Adgang til minihold"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:13:48.691Z",
+    "createdAt": "2025-06-04T19:13:28.995Z"
+  },
+  {
+    "id": 12,
+    "title": "Børnehold",
+    "slug": "brnehold",
+    "slugLock": true,
+    "price": "279 dkk / md",
+    "popular": false,
+    "badgeText": "Populær",
+    "ageGroup": "7-12 år",
+    "features": [
+      {
+        "id": "68409abf390a4103f3448cb8",
+        "description": "Adgang til børnehold"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:13:23.396Z",
+    "createdAt": "2025-06-04T19:13:03.827Z"
+  },
+  {
+    "id": 11,
+    "title": "Juniorhold",
+    "slug": "juniorhold",
+    "slugLock": true,
+    "price": "300 dkk / md",
+    "popular": false,
+    "badgeText": "Populær",
+    "ageGroup": "13-17 år",
+    "features": [
+      {
+        "id": "68409a96390a4103f3448cb7",
+        "description": "Adgang til juniorhold"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:13:01.364Z",
+    "createdAt": "2025-06-04T19:12:22.607Z"
+  },
+  {
+    "id": 10,
+    "title": "Kvindehold",
+    "slug": "kvindehold",
+    "slugLock": true,
+    "price": "300 dkk / md",
+    "popular": true,
+    "badgeText": "Populær",
+    "ageGroup": "+15 år",
+    "features": [
+      {
+        "id": "68409a61390a4103f3448cb5",
+        "description": "Open Gym (kvinder)"
+      },
+      {
+        "id": "68409a80ca5c74eb7a9f00aa",
+        "description": "Adgang til kvindehold"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:12:20.941Z",
+    "createdAt": "2025-06-04T19:11:29.597Z"
+  },
+  {
+    "id": 9,
+    "title": "Voksen",
+    "slug": "voksen",
+    "slugLock": true,
+    "price": "479 dkk / md",
+    "popular": true,
+    "badgeText": "Populær",
+    "ageGroup": "+18 år",
+    "features": [
+      {
+        "id": "68409a22390a4103f3448cb3",
+        "description": "Open Gym"
+      },
+      {
+        "id": "68409a22390a4103f3448cb4",
+        "description": "Alle Hold"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:10:26.981Z",
+    "createdAt": "2025-06-04T19:10:26.967Z"
+  },
+  {
+    "id": 8,
+    "title": "Aftenhold",
+    "slug": "aftenhold",
+    "slugLock": true,
+    "price": "300 dkk / md",
+    "popular": false,
+    "badgeText": "Populær",
+    "ageGroup": "+18 år",
+    "features": [
+      {
+        "id": "68409950ca5c74eb7a9f00a9",
+        "description": "Adgang til aftenholdet"
+      }
+    ],
+    "link": {
+      "type": "custom",
+      "newTab": true,
+      "url": "https://assouikgym.wondr.cc/register/",
+      "label": "Tilmeld dig",
+      "appearance": "blackGradient"
+    },
+    "savingsText": "Spar 11% ved årlig betaling",
+    "updatedAt": "2025-06-04T19:11:26.328Z",
+    "createdAt": "2025-06-04T19:09:56.348Z"
+  }
+]

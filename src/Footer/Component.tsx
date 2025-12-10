@@ -1,17 +1,33 @@
-import { getCachedGlobal } from '@/utilities/getGlobals'
-import Image from 'next/image'
-import React from 'react'
-import type { Footer } from '@/payload-types'
+import { CMSLink } from '@/components/Link'
 import TextHighlight from '@/components/ui/texthighlightbold'
-import { CMSLink } from '@/components/Link' // Updated import to match your structure
+import { getStaticGlobal } from '@/data/staticData'
+import type { Footer } from '@/payload-types'
+import Image from 'next/image'
 
 export async function Footer() {
-  const footerData = (await getCachedGlobal('footer', 1)()) as Footer
+  const footerData = getStaticGlobal<Footer>('footer')
+
+  if (!footerData) {
+    // Return minimal footer if no data
+    return (
+      <footer className="mt-auto bg-white">
+        <div className="p-4">
+          <div className="black-gradient-bg text-white pt-12 px-4 md:px-12 rounded-2xl backdrop-blur-lg">
+            <div className="text-center mt-8 md:mt-12">
+              <div className="font-[450] leading-none tracking-[2%] bg-gradient-to-b from-neutral-600/80 to-transparent text-transparent bg-clip-text pb-3 w-full text-4xl sm:text-5xl md:text-6xl text-center mx-auto px-4 lg:w-[947px] lg:text-[160px] lg:text-nowrap">
+                Assouik Gym
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    )
+  }
 
   const logoUrl =
     typeof footerData?.topSection?.logo === 'object' && footerData?.topSection?.logo?.url
       ? footerData.topSection.logo.url
-      : '/assets/images/footer_logo.png' // Fallback image
+      : '/assets/images/footer_logo.png'
 
   return (
     <footer className="mt-auto bg-white">
@@ -38,7 +54,6 @@ export async function Footer() {
               'Deep LaCroix-denim xoxo godard. Small retina v-3 moon air cardigan bear-humblebreg meditation level. Trust carry-on chia fancy lo-fi boys.'}
           </p>
 
-          {/* Use the links structure from footerData directly */}
           {footerData?.topSection?.links && footerData.topSection.links.length > 0 && (
             <div className="mt-6 sm:mt-8 w-full flex flex-col items-center">
               {footerData.topSection.links.map(({ link }, i) => (
@@ -57,7 +72,6 @@ export async function Footer() {
           <div className="mx-auto">
             {/* Mobile-only contact display */}
             <div className="md:hidden flex flex-col items-center space-y-3 mb-8">
-              {/* Contact information */}
               <div className="grid grid-cols-1 gap-4 mb-8">
                 <div className="flex flex-col text-center">
                   <span className="text-base text-white mb-1">Email</span>

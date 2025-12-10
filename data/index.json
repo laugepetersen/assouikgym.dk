@@ -1,0 +1,39 @@
+{
+  "exportedAt": "2025-12-10T17:20:54.625Z",
+  "collections": [
+    {
+      "name": "pages",
+      "file": "collections/pages.json"
+    },
+    {
+      "name": "media",
+      "file": "collections/media.json"
+    },
+    {
+      "name": "categories",
+      "file": "collections/categories.json"
+    },
+    {
+      "name": "classes",
+      "file": "collections/classes.json"
+    },
+    {
+      "name": "memberships",
+      "file": "collections/memberships.json"
+    }
+  ],
+  "globals": [
+    {
+      "name": "header",
+      "file": "globals/header.json"
+    },
+    {
+      "name": "footer",
+      "file": "globals/footer.json"
+    },
+    {
+      "name": "site-settings",
+      "file": "globals/site-settings.json"
+    }
+  ]
+}

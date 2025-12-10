@@ -80,7 +80,11 @@
     /* Color variables remain unchanged */
     --brand-gradient: linear-gradient(45deg, #ffee03, #ffbf01);
     --brand-color: #ffee03;
+    --brand-start: #ffee03;
+    --brand-end: #ffbf01;
     --black-gradient: linear-gradient(45deg, rgba(47, 47, 47, 0.95) 0%, rgba(0, 0, 0, 0.95) 100%);
+    --black-start: #2f2f2f;
+    --black-end: #000000;
     --transparent: rgba(0, 0, 0, 0);
     --black: #1f1f1f;
     --text-secondary: rgba(31, 31, 31, 0.8);
@@ -170,28 +174,28 @@ html[data-theme='light'] {
 }
 
 /* Alternative approach if the above doesn't work */
-ul[class*="list-bullet"] {
+ul[class*='list-bullet'] {
   list-style: disc !important;
   margin-left: 20px;
 }
 
-ul[class*="list-bullet"] ul[class*="list-bullet"] {
+ul[class*='list-bullet'] ul[class*='list-bullet'] {
   list-style: circle !important;
 }
 
-ul[class*="list-bullet"] ul[class*="list-bullet"] ul[class*="list-bullet"] {
+ul[class*='list-bullet'] ul[class*='list-bullet'] ul[class*='list-bullet'] {
   list-style: square !important;
 }
 
-ol[class*="list-number"] {
+ol[class*='list-number'] {
   list-style: decimal !important;
   margin-left: 20px;
 }
 
-ol[class*="list-number"] ol[class*="list-number"] {
+ol[class*='list-number'] ol[class*='list-number'] {
   list-style: lower-alpha !important;
 }
 
-ol[class*="list-number"] ol[class*="list-number"] ol[class*="list-number"] {
+ol[class*='list-number'] ol[class*='list-number'] ol[class*='list-number'] {
   list-style: lower-roman !important;
 }

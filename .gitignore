@@ -16,3 +16,6 @@ sync-scripts/server_db_backup.dump
 # Docker data
 docker/pgdata/
 docker/*.log
+
+# Static export data (optional - remove if you want to commit JSON files)
+# data/

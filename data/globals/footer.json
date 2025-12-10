@@ -1,0 +1,111 @@
+{
+  "id": 1,
+  "topSection": {
+    "logo": {
+      "id": 25,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-04T17:47:44.043Z",
+      "createdAt": "2025-06-04T17:47:43.912Z",
+      "url": "/media/wondr-logo.png",
+      "thumbnailURL": "/media/wondr-logo-300x300.png",
+      "filename": "wondr-logo.png",
+      "mimeType": "image/png",
+      "filesize": 157656,
+      "width": 512,
+      "height": 512,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/wondr-logo-300x300.png",
+          "width": 300,
+          "height": 300,
+          "mimeType": "image/png",
+          "filesize": 51319,
+          "filename": "wondr-logo-300x300.png"
+        },
+        "square": {
+          "url": "/media/wondr-logo-500x500.png",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/png",
+          "filesize": 130676,
+          "filename": "wondr-logo-500x500.png"
+        },
+        "small": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "medium": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        }
+      }
+    },
+    "heading": "Vi bruger |Wondr| til holdtilmelding",
+    "description": "Hos Assouik Gym ønsker hele tiden at forbedre din oplevelse som medlem hos os, og derfor har vi implementeret et nyt system til håndtering af medlemskaber. Fremover benytter vi appen Wondr, som giver dig større fleksibilitet og kontrol over dit medlemskab.",
+    "links": [
+      {
+        "id": "67f22eac7cdd2dd3948fa9c3",
+        "link": {
+          "type": "reference",
+          "newTab": null,
+          "reference": {
+            "relationTo": "pages",
+            "value": {
+              "id": 6,
+              "title": "Appen",
+              "slug": "appen"
+            }
+          },
+          "url": "#",
+          "label": "Sådan bruges det",
+          "appearance": "default"
+        }
+      }
+    ]
+  },
+  "contactInfo": {
+    "email": "info@assouikgym.dk",
+    "phone": "+45 61 61 28 73",
+    "cvr": "41254335",
+    "address": "Frederiksundsvej 342, 2700 København"
+  },
+  "brandName": "Assouik Gym",
+  "updatedAt": "2025-06-13T11:42:33.084Z",
+  "createdAt": "2025-04-05T11:19:53.299Z",
+  "globalType": "footer"
+}

@@ -3,11 +3,9 @@ import type { Metadata } from 'next/types'
 import { CollectionArchive } from '@/components/CollectionArchive'
 import { PageRange } from '@/components/PageRange'
 import { Pagination } from '@/components/Pagination'
-import configPromise from '@payload-config'
-import { getPayload } from 'payload'
-import React from 'react'
-import PageClient from './page.client'
+import { getAllStaticPosts } from '@/data/staticData'
 import { notFound } from 'next/navigation'
+import PageClient from './page.client'
 
 export const revalidate = 600
 
@@ -19,19 +17,18 @@ type Args = {
 
 export default async function Page({ params: paramsPromise }: Args) {
   const { pageNumber } = await paramsPromise
-  const payload = await getPayload({ config: configPromise })
+  const allPosts = getAllStaticPosts()
 
   const sanitizedPageNumber = Number(pageNumber)
 
   if (!Number.isInteger(sanitizedPageNumber)) notFound()
 
-  const posts = await payload.find({
-    collection: 'posts',
-    depth: 1,
-    limit: 12,
-    page: sanitizedPageNumber,
-    overrideAccess: false,
-  })
+  const limit = 12
+  const startIndex = (sanitizedPageNumber - 1) * limit
+  const endIndex = startIndex + limit
+  const posts = allPosts.slice(startIndex, endIndex)
+  const totalDocs = allPosts.length
+  const totalPages = Math.ceil(totalDocs / limit)
 
   return (
     <div className="pt-24 pb-24">
@@ -45,17 +42,17 @@ export default async function Page({ params: paramsPromise }: Args) {
       <div className="container mb-8">
         <PageRange
           collection="posts"
-          currentPage={posts.page}
+          currentPage={sanitizedPageNumber}
           limit={12}
-          totalDocs={posts.totalDocs}
+          totalDocs={totalDocs}
         />
       </div>
 
-      <CollectionArchive posts={posts.docs} />
+      <CollectionArchive posts={posts} />
 
       <div className="container">
-        {posts?.page && posts?.totalPages > 1 && (
-          <Pagination page={posts.page} totalPages={posts.totalPages} />
+        {sanitizedPageNumber && totalPages > 1 && (
+          <Pagination page={sanitizedPageNumber} totalPages={totalPages} />
         )}
       </div>
     </div>
@@ -70,13 +67,8 @@ export async function generateMetadata({ params: paramsPromise }: Args): Promise
 }
 
 export async function generateStaticParams() {
-  const payload = await getPayload({ config: configPromise })
-  const { totalDocs } = await payload.count({
-    collection: 'posts',
-    overrideAccess: false,
-  })
-
-  const totalPages = Math.ceil(totalDocs / 10)
+  const allPosts = getAllStaticPosts()
+  const totalPages = Math.ceil(allPosts.length / 12)
 
   const pages: { pageNumber: string }[] = []
 

@@ -1,0 +1,759 @@
+[
+  {
+    "id": 13,
+    "title": "Juniorhold",
+    "slug": "juniorhold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "13-17 år",
+    "price": "300 dkk / md",
+    "description": "Træning med fokus på teknik, disciplin og fællesskab. Når teknikkerne sidder, er der mulighed for udtagelse til kamphold – i samråd med forældre.",
+    "links": [
+      {
+        "id": "6840543b659b9ea2ce3e73e2",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "68405450659b9ea2ce3e73e3",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:57:57.596Z",
+    "createdAt": "2025-06-04T14:09:07.263Z"
+  },
+  {
+    "id": 12,
+    "title": "Børnehold",
+    "slug": "brnehold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "7-12 år",
+    "price": "279 dkk / md",
+    "description": "Sjov og aktiv træning med fokus på motorik, teknik og fællesskab. Her får børnene sved på panden – med et smil på læben.",
+    "links": [
+      {
+        "id": "6840546fcac04519e0de1575",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "reference": {
+            "relationTo": "pages",
+            "value": {
+              "id": 1,
+              "title": "Home",
+              "slug": "home"
+            }
+          },
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "6840547dcac04519e0de1576",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "default"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:09.381Z",
+    "createdAt": "2025-06-04T14:08:36.153Z"
+  },
+  {
+    "id": 11,
+    "title": "Pige- / kvindehold",
+    "slug": "pige---kvindehold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "+15 år",
+    "price": "300 dkk / md",
+    "description": "Træning kun for piger og kvinder – undervist af kvindelig instruktør. Lokalet er lukket for andre under timen. Fra 15 år og op.",
+    "links": [
+      {
+        "id": "684054891e9d36354c201b3d",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "6840548a1e9d36354c201b3e",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:15.145Z",
+    "createdAt": "2025-06-04T14:07:18.357Z"
+  },
+  {
+    "id": 10,
+    "title": "Kamphold",
+    "slug": "kamphold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "+13 år",
+    "price": "479 dkk / md",
+    "description": "For dig der vil konkurrere. Holdet er lukket og kræver udtagelse via Youssef Assouik. Træningen er målrettet både nationale og internationale stævner.",
+    "links": [
+      {
+        "id": "6840549e9c1aec88df01ea0c",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "684054a09c1aec88df01ea0d",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:21.170Z",
+    "createdAt": "2025-06-04T14:05:51.967Z"
+  },
+  {
+    "id": 9,
+    "title": "Mixhold",
+    "slug": "mixhold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "+18 år",
+    "price": "479 dkk / md",
+    "description": "En alsidig træning med sække, puder, clinch og valgfri sparring. Fokus er på teknik, og alle niveauer er velkomne.",
+    "links": [
+      {
+        "id": "684054b3fecd6431984c7b05",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "684054b3fecd6431984c7b06",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:26.172Z",
+    "createdAt": "2025-06-04T14:05:00.151Z"
+  },
+  {
+    "id": 8,
+    "title": "Øvet-hold",
+    "slug": "vet-hold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "+18 år",
+    "price": "479 dkk / md",
+    "description": "Vi bygger videre på dine basale færdigheder og skruer op for tempo og præcision. Eget udstyr forventes. Sparring kan forekomme.",
+    "links": [
+      {
+        "id": "684054d7d588205f112bdd22",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "684054d8d588205f112bdd23",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:30.942Z",
+    "createdAt": "2025-06-04T14:03:59.884Z"
+  },
+  {
+    "id": 7,
+    "title": "Begynderhold",
+    "slug": "begynderhold",
+    "slugLock": true,
+    "image": {
+      "id": 40,
+      "alt": null,
+      "caption": null,
+      "updatedAt": "2025-06-07T18:57:43.747Z",
+      "createdAt": "2025-06-07T18:57:43.437Z",
+      "url": "/media/Assouik%20Banner.jpg",
+      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
+      "filename": "Assouik Banner.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 27022,
+      "width": 1088,
+      "height": 727,
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": {
+          "url": "/media/Assouik%20Banner-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "filesize": 5750,
+          "filename": "Assouik Banner-300x200.jpg"
+        },
+        "square": {
+          "url": "/media/Assouik%20Banner-500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mimeType": "image/jpeg",
+          "filesize": 17221,
+          "filename": "Assouik Banner-500x500.jpg"
+        },
+        "small": {
+          "url": "/media/Assouik%20Banner-600x401.jpg",
+          "width": 600,
+          "height": 401,
+          "mimeType": "image/jpeg",
+          "filesize": 15342,
+          "filename": "Assouik Banner-600x401.jpg"
+        },
+        "medium": {
+          "url": "/media/Assouik%20Banner-900x601.jpg",
+          "width": 900,
+          "height": 601,
+          "mimeType": "image/jpeg",
+          "filesize": 26426,
+          "filename": "Assouik Banner-900x601.jpg"
+        },
+        "large": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "xlarge": {
+          "url": null,
+          "width": null,
+          "height": null,
+          "mimeType": null,
+          "filesize": null,
+          "filename": null
+        },
+        "og": {
+          "url": "/media/Assouik%20Banner-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg",
+          "filesize": 32601,
+          "filename": "Assouik Banner-1200x630.jpg"
+        }
+      }
+    },
+    "ageRequirement": "+18 år",
+    "price": "479 dkk / md",
+    "description": "Her lærer du de grundlæggende teknikker i thaiboksning – slag, spark, bevægelse og forsvar. Træningen kombineres med kondition og udholdenhed. Alle kan være med, uanset form.",
+    "links": [
+      {
+        "id": "67f90a104b1f6a1d64665465",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/register/",
+          "label": "Bliv medlem",
+          "appearance": "brandGradient"
+        }
+      },
+      {
+        "id": "67f90a184b1f6a1d64665466",
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "https://assouikgym.wondr.cc/schema/",
+          "label": "Se skema",
+          "appearance": "outline"
+        }
+      }
+    ],
+    "updatedAt": "2025-06-07T18:58:36.370Z",
+    "createdAt": "2025-04-11T12:25:03.531Z"
+  }
+]
