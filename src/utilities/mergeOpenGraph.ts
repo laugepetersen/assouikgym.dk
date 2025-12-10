@@ -1,12 +1,11 @@
 import type { Metadata } from 'next'
-import { getServerSideURL } from './getURL'
 
 const defaultOpenGraph: Metadata['openGraph'] = {
   type: 'website',
   description: 'An open-source website built with Payload and Next.js.',
   images: [
     {
-      url: `${getServerSideURL()}/assouik-gym-OG.jpg`,
+      url: '/assouik-gym-OG.jpg',
     },
   ],
   siteName: 'AssouikGym',

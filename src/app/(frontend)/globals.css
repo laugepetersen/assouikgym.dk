@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  @apply antialiased;
+}
+
 @layer base {
   /* Base typography - now using all CSS variables */
   h1 {

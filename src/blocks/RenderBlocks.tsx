@@ -1,20 +1,18 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import React, { Fragment } from 'react'
-import type { Page } from '@/payload-types'
 import { ContentBlock } from '@/blocks/Content/Component'
-import { FormBlock } from '@/blocks/Form/Component'
 import { MediaBlock } from '@/blocks/MediaBlock/Component'
-import TextAndMedia from './TextAndMedia/Component'
-import RichTextBlock from './RichTextBlock/Component'
+import type { Page } from '@/payload-types'
+import React, { Fragment } from 'react'
 import Banner from './BannerBlock/Component'
-import SliderBlock from './SliderBlock/Component'
 import ClassesBlock from './Classes/Component'
-import MembershipsBlock from './Memberships/Component'
 import { MediaGridBlock } from './MediaGridBlock/Component'
+import MembershipsBlock from './Memberships/Component'
+import RichTextBlock from './RichTextBlock/Component'
+import SliderBlock from './SliderBlock/Component'
+import TextAndMedia from './TextAndMedia/Component'
 
 type BlockComponentsType = {
   content: typeof ContentBlock
-  formBlock: typeof FormBlock
   mediaBlock: typeof MediaBlock
   textAndMedia: typeof TextAndMedia
   richTextBlock: typeof RichTextBlock
@@ -27,7 +25,6 @@ type BlockComponentsType = {
 
 const blockComponents: BlockComponentsType = {
   content: ContentBlock,
-  formBlock: FormBlock,
   mediaBlock: MediaBlock,
   textAndMedia: TextAndMedia,
   richTextBlock: RichTextBlock,

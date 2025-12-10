@@ -1,19 +1,21 @@
 import type { Metadata } from 'next'
 
-import type { Media, Page, Post, Config } from '../payload-types'
+import type { Config, Media, Page, Post } from '../payload-types'
 
 import { mergeOpenGraph } from './mergeOpenGraph'
-import { getServerSideURL } from './getURL'
 
-const getImageURL = (image?: Media | Config['db']['defaultIDType'] | null) => {
-  const serverUrl = getServerSideURL()
-
-  let url = serverUrl + '/assouik-gym-OG.jpg'
+const getImageURL = (image?: Media | Config['db']['defaultIDType'] | null): string => {
+  let url = '/assouik-gym-OG.jpg'
 
   if (image && typeof image === 'object' && 'url' in image) {
     const ogUrl = image.sizes?.og?.url
+    const imageUrl = image.url
 
-    url = ogUrl ? serverUrl + ogUrl : serverUrl + image.url
+    if (ogUrl) {
+      url = ogUrl
+    } else if (imageUrl) {
+      url = imageUrl
+    }
   }
 
   return url

@@ -9,7 +9,6 @@ import React from 'react'
 import ScrollToTop from '@/components/ui/srcolltotop'
 import { getStaticGlobal } from '@/data/staticData'
 import type { SiteSetting } from '@/payload-types'
-import { getServerSideURL } from '@/utilities/getURL'
 import './globals.css'
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
@@ -35,8 +34,18 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   )
 }
 
+const getMetadataBase = (): URL => {
+  if (process.env.VERCEL_URL) {
+    return new URL(`https://${process.env.VERCEL_URL}`)
+  }
+  if (process.env.NEXT_PUBLIC_SERVER_URL) {
+    return new URL(process.env.NEXT_PUBLIC_SERVER_URL)
+  }
+  return new URL('http://localhost:3000')
+}
+
 export const metadata: Metadata = {
-  metadataBase: new URL(getServerSideURL()),
+  metadataBase: getMetadataBase(),
   openGraph: mergeOpenGraph(),
   twitter: {
     card: 'summary_large_image',
