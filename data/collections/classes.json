@@ -11,72 +11,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "13-17 år",
     "price": "300 dkk / md",
@@ -118,72 +59,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "7-12 år",
     "price": "279 dkk / md",
@@ -233,72 +115,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "+15 år",
     "price": "300 dkk / md",
@@ -340,72 +163,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "+13 år",
     "price": "479 dkk / md",
@@ -447,72 +211,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "+18 år",
     "price": "479 dkk / md",
@@ -554,72 +259,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "+18 år",
     "price": "479 dkk / md",
@@ -661,72 +307,13 @@
       "updatedAt": "2025-06-07T18:57:43.747Z",
       "createdAt": "2025-06-07T18:57:43.437Z",
       "url": "/media/Assouik%20Banner.jpg",
-      "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
       "filename": "Assouik Banner.jpg",
       "mimeType": "image/jpeg",
       "filesize": 27022,
       "width": 1088,
       "height": 727,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/Assouik%20Banner-300x200.jpg",
-          "width": 300,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "filesize": 5750,
-          "filename": "Assouik Banner-300x200.jpg"
-        },
-        "square": {
-          "url": "/media/Assouik%20Banner-500x500.jpg",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/jpeg",
-          "filesize": 17221,
-          "filename": "Assouik Banner-500x500.jpg"
-        },
-        "small": {
-          "url": "/media/Assouik%20Banner-600x401.jpg",
-          "width": 600,
-          "height": 401,
-          "mimeType": "image/jpeg",
-          "filesize": 15342,
-          "filename": "Assouik Banner-600x401.jpg"
-        },
-        "medium": {
-          "url": "/media/Assouik%20Banner-900x601.jpg",
-          "width": 900,
-          "height": 601,
-          "mimeType": "image/jpeg",
-          "filesize": 26426,
-          "filename": "Assouik Banner-900x601.jpg"
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": "/media/Assouik%20Banner-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "mimeType": "image/jpeg",
-          "filesize": 32601,
-          "filename": "Assouik Banner-1200x630.jpg"
-        }
-      }
+      "focalY": 50
     },
     "ageRequirement": "+18 år",
     "price": "479 dkk / md",

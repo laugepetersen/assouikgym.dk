@@ -6,72 +6,13 @@
     "updatedAt": "2025-06-10T13:02:57.034Z",
     "createdAt": "2025-06-10T13:02:56.989Z",
     "url": "/media/youssef-bendahman-coach.jpg",
-    "thumbnailURL": "/media/youssef-bendahman-coach-300x300.jpg",
     "filename": "youssef-bendahman-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 34281,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-bendahman-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 13443,
-        "filename": "youssef-bendahman-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-bendahman-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 27983,
-        "filename": "youssef-bendahman-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 47,
@@ -80,72 +21,13 @@
     "updatedAt": "2025-06-10T13:02:56.941Z",
     "createdAt": "2025-06-10T13:02:56.897Z",
     "url": "/media/youssef-assouik-coach.jpg",
-    "thumbnailURL": "/media/youssef-assouik-coach-300x300.jpg",
     "filename": "youssef-assouik-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 38632,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-assouik-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 10430,
-        "filename": "youssef-assouik-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-assouik-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 26423,
-        "filename": "youssef-assouik-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 46,
@@ -154,72 +36,13 @@
     "updatedAt": "2025-06-10T13:02:56.852Z",
     "createdAt": "2025-06-10T13:02:56.801Z",
     "url": "/media/yacine-touabti-coach.jpg",
-    "thumbnailURL": "/media/yacine-touabti-coach-300x300.jpg",
     "filename": "yacine-touabti-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 30228,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/yacine-touabti-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 8639,
-        "filename": "yacine-touabti-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/yacine-touabti-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 22596,
-        "filename": "yacine-touabti-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 45,
@@ -228,72 +51,13 @@
     "updatedAt": "2025-06-10T13:02:56.760Z",
     "createdAt": "2025-06-10T13:02:56.726Z",
     "url": "/media/unknown-coach.jpg",
-    "thumbnailURL": "/media/unknown-coach-300x300.jpg",
     "filename": "unknown-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 3906,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/unknown-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 2902,
-        "filename": "unknown-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/unknown-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 4171,
-        "filename": "unknown-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 44,
@@ -302,72 +66,13 @@
     "updatedAt": "2025-06-10T13:02:56.685Z",
     "createdAt": "2025-06-10T13:02:56.623Z",
     "url": "/media/lucas-undall-coach.jpg",
-    "thumbnailURL": "/media/lucas-undall-coach-300x300.jpg",
     "filename": "lucas-undall-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 117013,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/lucas-undall-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 9585,
-        "filename": "lucas-undall-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/lucas-undall-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 25013,
-        "filename": "lucas-undall-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 43,
@@ -376,72 +81,13 @@
     "updatedAt": "2025-06-10T13:02:56.563Z",
     "createdAt": "2025-06-10T13:02:56.503Z",
     "url": "/media/kasra-mir-coach.jpg",
-    "thumbnailURL": "/media/kasra-mir-coach-300x300.jpg",
     "filename": "kasra-mir-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 58492,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/kasra-mir-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 15087,
-        "filename": "kasra-mir-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/kasra-mir-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 33113,
-        "filename": "kasra-mir-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 42,
@@ -450,72 +96,13 @@
     "updatedAt": "2025-06-10T13:02:56.405Z",
     "createdAt": "2025-06-10T13:02:56.352Z",
     "url": "/media/emilie-coach.jpg",
-    "thumbnailURL": "/media/emilie-coach-300x300.jpg",
     "filename": "emilie-coach.jpg",
     "mimeType": "image/jpeg",
     "filesize": 71302,
     "width": 500,
     "height": 500,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/emilie-coach-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 14104,
-        "filename": "emilie-coach-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/emilie-coach-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 36152,
-        "filename": "emilie-coach-500x500.jpg"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 41,
@@ -524,72 +111,13 @@
     "updatedAt": "2025-06-09T09:09:07.546Z",
     "createdAt": "2025-06-09T09:09:07.303Z",
     "url": "/media/banner-image-2.png",
-    "thumbnailURL": "/media/banner-image-2-300x496.png",
     "filename": "banner-image-2.png",
     "mimeType": "image/png",
     "filesize": 328218,
     "width": 358,
     "height": 592,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/banner-image-2-300x496.png",
-        "width": 300,
-        "height": 496,
-        "mimeType": "image/png",
-        "filesize": 241035,
-        "filename": "banner-image-2-300x496.png"
-      },
-      "square": {
-        "url": "/media/banner-image-2-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 504532,
-        "filename": "banner-image-2-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 40,
@@ -598,72 +126,13 @@
     "updatedAt": "2025-06-07T18:57:43.747Z",
     "createdAt": "2025-06-07T18:57:43.437Z",
     "url": "/media/Assouik%20Banner.jpg",
-    "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
     "filename": "Assouik Banner.jpg",
     "mimeType": "image/jpeg",
     "filesize": 27022,
     "width": 1088,
     "height": 727,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/Assouik%20Banner-300x200.jpg",
-        "width": 300,
-        "height": 200,
-        "mimeType": "image/jpeg",
-        "filesize": 5750,
-        "filename": "Assouik Banner-300x200.jpg"
-      },
-      "square": {
-        "url": "/media/Assouik%20Banner-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 17221,
-        "filename": "Assouik Banner-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/Assouik%20Banner-600x401.jpg",
-        "width": 600,
-        "height": 401,
-        "mimeType": "image/jpeg",
-        "filesize": 15342,
-        "filename": "Assouik Banner-600x401.jpg"
-      },
-      "medium": {
-        "url": "/media/Assouik%20Banner-900x601.jpg",
-        "width": 900,
-        "height": 601,
-        "mimeType": "image/jpeg",
-        "filesize": 26426,
-        "filename": "Assouik Banner-900x601.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/Assouik%20Banner-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 32601,
-        "filename": "Assouik Banner-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 39,
@@ -672,72 +141,13 @@
     "updatedAt": "2025-06-07T18:45:32.589Z",
     "createdAt": "2025-06-07T18:45:32.037Z",
     "url": "/media/youssef-bendahman.jpg",
-    "thumbnailURL": "/media/youssef-bendahman-300x450.jpg",
     "filename": "youssef-bendahman.jpg",
     "mimeType": "image/jpeg",
     "filesize": 122871,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-bendahman-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 19585,
-        "filename": "youssef-bendahman-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-bendahman-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 36211,
-        "filename": "youssef-bendahman-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/youssef-bendahman-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 57978,
-        "filename": "youssef-bendahman-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/youssef-bendahman-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 71712,
-        "filename": "youssef-bendahman-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 38,
@@ -746,72 +156,13 @@
     "updatedAt": "2025-06-07T18:45:31.926Z",
     "createdAt": "2025-06-07T18:45:31.445Z",
     "url": "/media/youssef-assouik.jpg",
-    "thumbnailURL": "/media/youssef-assouik-300x450.jpg",
     "filename": "youssef-assouik.jpg",
     "mimeType": "image/jpeg",
     "filesize": 416071,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-assouik-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 23373,
-        "filename": "youssef-assouik-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-assouik-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 49831,
-        "filename": "youssef-assouik-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/youssef-assouik-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 84122,
-        "filename": "youssef-assouik-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/youssef-assouik-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 163789,
-        "filename": "youssef-assouik-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 37,
@@ -820,72 +171,13 @@
     "updatedAt": "2025-06-07T18:47:27.840Z",
     "createdAt": "2025-06-07T18:45:30.790Z",
     "url": "/media/youssef-assouik-belts.jpg",
-    "thumbnailURL": "/media/youssef-assouik-belts-300x450.jpg",
     "filename": "youssef-assouik-belts.jpg",
     "mimeType": "image/jpeg",
     "filesize": 161775,
     "width": 1200,
     "height": 1799,
     "focalX": 48,
-    "focalY": 24,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-assouik-belts-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 21522,
-        "filename": "youssef-assouik-belts-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-assouik-belts-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 32870,
-        "filename": "youssef-assouik-belts-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/youssef-assouik-belts-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 64259,
-        "filename": "youssef-assouik-belts-600x900.jpg"
-      },
-      "medium": {
-        "url": "/media/youssef-assouik-belts-900x1349.jpg",
-        "width": 900,
-        "height": 1349,
-        "mimeType": "image/jpeg",
-        "filesize": 121767,
-        "filename": "youssef-assouik-belts-900x1349.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/youssef-assouik-belts-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 38903,
-        "filename": "youssef-assouik-belts-1200x630.jpg"
-      }
-    }
+    "focalY": 24
   },
   {
     "id": 36,
@@ -894,72 +186,13 @@
     "updatedAt": "2025-06-07T18:45:30.692Z",
     "createdAt": "2025-06-07T18:45:30.367Z",
     "url": "/media/yaccine-touabti.jpg",
-    "thumbnailURL": "/media/yaccine-touabti-300x450.jpg",
     "filename": "yaccine-touabti.jpg",
     "mimeType": "image/jpeg",
     "filesize": 87939,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/yaccine-touabti-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 13870,
-        "filename": "yaccine-touabti-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/yaccine-touabti-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 23175,
-        "filename": "yaccine-touabti-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/yaccine-touabti-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 44124,
-        "filename": "yaccine-touabti-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/yaccine-touabti-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 35710,
-        "filename": "yaccine-touabti-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 35,
@@ -968,72 +201,13 @@
     "updatedAt": "2025-06-07T18:45:30.227Z",
     "createdAt": "2025-06-07T18:45:29.577Z",
     "url": "/media/thaiboxing.jpg",
-    "thumbnailURL": "/media/thaiboxing-300x450.jpg",
     "filename": "thaiboxing.jpg",
     "mimeType": "image/jpeg",
     "filesize": 180153,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/thaiboxing-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 16170,
-        "filename": "thaiboxing-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/thaiboxing-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 26850,
-        "filename": "thaiboxing-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/thaiboxing-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 48420,
-        "filename": "thaiboxing-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/thaiboxing-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 64882,
-        "filename": "thaiboxing-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 34,
@@ -1042,72 +216,13 @@
     "updatedAt": "2025-06-07T18:45:29.410Z",
     "createdAt": "2025-06-07T18:45:28.973Z",
     "url": "/media/muay-thai.jpg",
-    "thumbnailURL": "/media/muay-thai-300x450.jpg",
     "filename": "muay-thai.jpg",
     "mimeType": "image/jpeg",
     "filesize": 106294,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/muay-thai-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 20783,
-        "filename": "muay-thai-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/muay-thai-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 30931,
-        "filename": "muay-thai-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/muay-thai-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 58961,
-        "filename": "muay-thai-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/muay-thai-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 55930,
-        "filename": "muay-thai-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 33,
@@ -1116,72 +231,13 @@
     "updatedAt": "2025-06-07T18:45:28.867Z",
     "createdAt": "2025-06-07T18:45:28.234Z",
     "url": "/media/muay-thai-respect.jpg",
-    "thumbnailURL": "/media/muay-thai-respect-300x410.jpg",
     "filename": "muay-thai-respect.jpg",
     "mimeType": "image/jpeg",
     "filesize": 138936,
     "width": 1024,
     "height": 1400,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/muay-thai-respect-300x410.jpg",
-        "width": 300,
-        "height": 410,
-        "mimeType": "image/jpeg",
-        "filesize": 28890,
-        "filename": "muay-thai-respect-300x410.jpg"
-      },
-      "square": {
-        "url": "/media/muay-thai-respect-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 49058,
-        "filename": "muay-thai-respect-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/muay-thai-respect-600x820.jpg",
-        "width": 600,
-        "height": 820,
-        "mimeType": "image/jpeg",
-        "filesize": 77867,
-        "filename": "muay-thai-respect-600x820.jpg"
-      },
-      "medium": {
-        "url": "/media/muay-thai-respect-900x1230.jpg",
-        "width": 900,
-        "height": 1230,
-        "mimeType": "image/jpeg",
-        "filesize": 135361,
-        "filename": "muay-thai-respect-900x1230.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/muay-thai-respect-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 70185,
-        "filename": "muay-thai-respect-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 32,
@@ -1190,72 +246,13 @@
     "updatedAt": "2025-06-07T18:45:28.133Z",
     "createdAt": "2025-06-07T18:45:27.809Z",
     "url": "/media/fitness.jpg",
-    "thumbnailURL": "/media/fitness-300x450.jpg",
     "filename": "fitness.jpg",
     "mimeType": "image/jpeg",
     "filesize": 48726,
     "width": 800,
     "height": 1200,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/fitness-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 7112,
-        "filename": "fitness-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/fitness-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 9310,
-        "filename": "fitness-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/fitness-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 18051,
-        "filename": "fitness-600x900.jpg"
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/fitness-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 15276,
-        "filename": "fitness-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 31,
@@ -1264,72 +261,13 @@
     "updatedAt": "2025-06-07T18:45:27.710Z",
     "createdAt": "2025-06-07T18:45:26.920Z",
     "url": "/media/assouik-gym-training.jpg",
-    "thumbnailURL": "/media/assouik-gym-training-300x450.jpg",
     "filename": "assouik-gym-training.jpg",
     "mimeType": "image/jpeg",
     "filesize": 356649,
     "width": 1024,
     "height": 1536,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/assouik-gym-training-300x450.jpg",
-        "width": 300,
-        "height": 450,
-        "mimeType": "image/jpeg",
-        "filesize": 17222,
-        "filename": "assouik-gym-training-300x450.jpg"
-      },
-      "square": {
-        "url": "/media/assouik-gym-training-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 27972,
-        "filename": "assouik-gym-training-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/assouik-gym-training-600x900.jpg",
-        "width": 600,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 53965,
-        "filename": "assouik-gym-training-600x900.jpg"
-      },
-      "medium": {
-        "url": "/media/assouik-gym-training-900x1350.jpg",
-        "width": 900,
-        "height": 1350,
-        "mimeType": "image/jpeg",
-        "filesize": 126512,
-        "filename": "assouik-gym-training-900x1350.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/assouik-gym-training-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 78056,
-        "filename": "assouik-gym-training-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 30,
@@ -1338,72 +276,13 @@
     "updatedAt": "2025-06-07T18:27:15.498Z",
     "createdAt": "2025-06-07T18:27:14.939Z",
     "url": "/media/Hero%20fallback%20image.jpg",
-    "thumbnailURL": "/media/Hero%20fallback%20image-300x169.jpg",
     "filename": "Hero fallback image.jpg",
     "mimeType": "image/jpeg",
     "filesize": 42876,
     "width": 1538,
     "height": 865,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/Hero%20fallback%20image-300x169.jpg",
-        "width": 300,
-        "height": 169,
-        "mimeType": "image/jpeg",
-        "filesize": 3407,
-        "filename": "Hero fallback image-300x169.jpg"
-      },
-      "square": {
-        "url": "/media/Hero%20fallback%20image-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 10264,
-        "filename": "Hero fallback image-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/Hero%20fallback%20image-600x337.jpg",
-        "width": 600,
-        "height": 337,
-        "mimeType": "image/jpeg",
-        "filesize": 9044,
-        "filename": "Hero fallback image-600x337.jpg"
-      },
-      "medium": {
-        "url": "/media/Hero%20fallback%20image-900x506.jpg",
-        "width": 900,
-        "height": 506,
-        "mimeType": "image/jpeg",
-        "filesize": 16460,
-        "filename": "Hero fallback image-900x506.jpg"
-      },
-      "large": {
-        "url": "/media/Hero%20fallback%20image-1400x787.jpg",
-        "width": 1400,
-        "height": 787,
-        "mimeType": "image/jpeg",
-        "filesize": 31253,
-        "filename": "Hero fallback image-1400x787.jpg"
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/Hero%20fallback%20image-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 23917,
-        "filename": "Hero fallback image-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 29,
@@ -1412,72 +291,13 @@
     "updatedAt": "2025-06-07T18:26:49.864Z",
     "createdAt": "2025-06-07T18:26:49.780Z",
     "url": "/media/hero.mp4",
-    "thumbnailURL": null,
     "filename": "hero.mp4",
     "mimeType": "video/mp4",
     "filesize": 12290792,
     "width": null,
     "height": null,
     "focalX": null,
-    "focalY": null,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": null
   },
   {
     "id": 25,
@@ -1486,72 +306,13 @@
     "updatedAt": "2025-06-04T17:47:44.043Z",
     "createdAt": "2025-06-04T17:47:43.912Z",
     "url": "/media/wondr-logo.png",
-    "thumbnailURL": "/media/wondr-logo-300x300.png",
     "filename": "wondr-logo.png",
     "mimeType": "image/png",
     "filesize": 157656,
     "width": 512,
     "height": 512,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/wondr-logo-300x300.png",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/png",
-        "filesize": 51319,
-        "filename": "wondr-logo-300x300.png"
-      },
-      "square": {
-        "url": "/media/wondr-logo-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 130676,
-        "filename": "wondr-logo-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 24,
@@ -1560,72 +321,13 @@
     "updatedAt": "2025-06-04T17:44:41.392Z",
     "createdAt": "2025-06-04T17:44:41.001Z",
     "url": "/media/assouik-gym-featured-image.jpg",
-    "thumbnailURL": "/media/assouik-gym-featured-image-300x200.jpg",
     "filename": "assouik-gym-featured-image.jpg",
     "mimeType": "image/jpeg",
     "filesize": 280787,
     "width": 1088,
     "height": 727,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/assouik-gym-featured-image-300x200.jpg",
-        "width": 300,
-        "height": 200,
-        "mimeType": "image/jpeg",
-        "filesize": 8281,
-        "filename": "assouik-gym-featured-image-300x200.jpg"
-      },
-      "square": {
-        "url": "/media/assouik-gym-featured-image-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 24829,
-        "filename": "assouik-gym-featured-image-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/assouik-gym-featured-image-600x401.jpg",
-        "width": 600,
-        "height": 401,
-        "mimeType": "image/jpeg",
-        "filesize": 21389,
-        "filename": "assouik-gym-featured-image-600x401.jpg"
-      },
-      "medium": {
-        "url": "/media/assouik-gym-featured-image-900x601.jpg",
-        "width": 900,
-        "height": 601,
-        "mimeType": "image/jpeg",
-        "filesize": 35620,
-        "filename": "assouik-gym-featured-image-900x601.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/assouik-gym-featured-image-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 45896,
-        "filename": "assouik-gym-featured-image-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 23,
@@ -1634,72 +336,13 @@
     "updatedAt": "2025-04-15T14:38:11.855Z",
     "createdAt": "2025-04-15T14:38:10.859Z",
     "url": "/media/Group%207-3.png",
-    "thumbnailURL": "/media/Group%207-3-300x527.png",
     "filename": "Group 7-3.png",
     "mimeType": "image/png",
     "filesize": 375439,
     "width": 374,
     "height": 657,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/Group%207-3-300x527.png",
-        "width": 300,
-        "height": 527,
-        "mimeType": "image/png",
-        "filesize": 297806,
-        "filename": "Group 7-3-300x527.png"
-      },
-      "square": {
-        "url": "/media/Group%207-3-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 455310,
-        "filename": "Group 7-3-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/Group%207-3-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1075700,
-        "filename": "Group 7-3-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 22,
@@ -1708,72 +351,13 @@
     "updatedAt": "2025-04-06T07:15:16.065Z",
     "createdAt": "2025-04-06T07:15:15.446Z",
     "url": "/media/boxing_collage_image.png",
-    "thumbnailURL": "/media/boxing_collage_image-300x346.png",
     "filename": "boxing_collage_image.png",
     "mimeType": "image/png",
     "filesize": 389689,
     "width": 570,
     "height": 657,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/boxing_collage_image-300x346.png",
-        "width": 300,
-        "height": 346,
-        "mimeType": "image/png",
-        "filesize": 140059,
-        "filename": "boxing_collage_image-300x346.png"
-      },
-      "square": {
-        "url": "/media/boxing_collage_image-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 316624,
-        "filename": "boxing_collage_image-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/boxing_collage_image-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 824679,
-        "filename": "boxing_collage_image-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 21,
@@ -1782,72 +366,13 @@
     "updatedAt": "2025-04-06T06:37:13.439Z",
     "createdAt": "2025-04-06T06:37:09.898Z",
     "url": "/media/classes7.jpeg",
-    "thumbnailURL": "/media/classes7-300x300.jpg",
     "filename": "classes7.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 613021,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes7-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 15790,
-        "filename": "classes7-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes7-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 37933,
-        "filename": "classes7-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes7-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 52853,
-        "filename": "classes7-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes7-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 109519,
-        "filename": "classes7-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes7-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 238795,
-        "filename": "classes7-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes7-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 408460,
-        "filename": "classes7-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes7-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 92233,
-        "filename": "classes7-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 20,
@@ -1856,72 +381,13 @@
     "updatedAt": "2025-04-06T06:36:55.905Z",
     "createdAt": "2025-04-06T06:36:52.204Z",
     "url": "/media/classes6.jpeg",
-    "thumbnailURL": "/media/classes6-300x300.jpg",
     "filename": "classes6.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 970471,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes6-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 20162,
-        "filename": "classes6-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes6-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 48108,
-        "filename": "classes6-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes6-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 67085,
-        "filename": "classes6-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes6-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 143331,
-        "filename": "classes6-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes6-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 337414,
-        "filename": "classes6-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes6-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 612070,
-        "filename": "classes6-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes6-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 134187,
-        "filename": "classes6-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 19,
@@ -1930,72 +396,13 @@
     "updatedAt": "2025-04-06T06:36:39.925Z",
     "createdAt": "2025-04-06T06:36:36.220Z",
     "url": "/media/classes5.jpeg",
-    "thumbnailURL": "/media/classes5-300x300.jpg",
     "filename": "classes5.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 1189167,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes5-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 23792,
-        "filename": "classes5-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes5-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 52309,
-        "filename": "classes5-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes5-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 71885,
-        "filename": "classes5-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes5-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 158666,
-        "filename": "classes5-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes5-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 406686,
-        "filename": "classes5-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes5-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 781693,
-        "filename": "classes5-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes5-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 151323,
-        "filename": "classes5-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 18,
@@ -2004,72 +411,13 @@
     "updatedAt": "2025-04-06T06:36:09.277Z",
     "createdAt": "2025-04-06T06:36:05.966Z",
     "url": "/media/classes4.jpeg",
-    "thumbnailURL": "/media/classes4-300x300.jpg",
     "filename": "classes4.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 565285,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes4-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 14430,
-        "filename": "classes4-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes4-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 31707,
-        "filename": "classes4-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes4-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 42559,
-        "filename": "classes4-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes4-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 83970,
-        "filename": "classes4-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes4-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 181310,
-        "filename": "classes4-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes4-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 321992,
-        "filename": "classes4-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes4-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 82336,
-        "filename": "classes4-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 17,
@@ -2078,72 +426,13 @@
     "updatedAt": "2025-04-06T06:35:28.017Z",
     "createdAt": "2025-04-06T06:35:24.554Z",
     "url": "/media/classes3.jpeg",
-    "thumbnailURL": "/media/classes3-300x300.jpg",
     "filename": "classes3.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 384797,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes3-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 13959,
-        "filename": "classes3-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes3-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 30488,
-        "filename": "classes3-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes3-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 39775,
-        "filename": "classes3-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes3-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 72811,
-        "filename": "classes3-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes3-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 141527,
-        "filename": "classes3-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes3-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 231263,
-        "filename": "classes3-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes3-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 63644,
-        "filename": "classes3-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 16,
@@ -2152,72 +441,13 @@
     "updatedAt": "2025-04-06T06:35:07.720Z",
     "createdAt": "2025-04-06T06:35:03.753Z",
     "url": "/media/classes2.jpeg",
-    "thumbnailURL": "/media/classes2-300x300.jpg",
     "filename": "classes2.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 1319401,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes2-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 11962,
-        "filename": "classes2-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes2-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 29176,
-        "filename": "classes2-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes2-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 42067,
-        "filename": "classes2-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes2-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 106804,
-        "filename": "classes2-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes2-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 347508,
-        "filename": "classes2-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes2-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 787571,
-        "filename": "classes2-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes2-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 118351,
-        "filename": "classes2-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 15,
@@ -2226,72 +456,13 @@
     "updatedAt": "2025-04-06T06:33:09.546Z",
     "createdAt": "2025-04-06T06:33:06.261Z",
     "url": "/media/classes1.jpeg",
-    "thumbnailURL": "/media/classes1-300x300.jpg",
     "filename": "classes1.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 446660,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/classes1-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 13383,
-        "filename": "classes1-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/classes1-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 27913,
-        "filename": "classes1-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/classes1-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 36862,
-        "filename": "classes1-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/classes1-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 69116,
-        "filename": "classes1-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/classes1-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 143501,
-        "filename": "classes1-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/classes1-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 254932,
-        "filename": "classes1-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/classes1-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 72686,
-        "filename": "classes1-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 14,
@@ -2300,72 +471,13 @@
     "updatedAt": "2025-04-06T06:28:18.679Z",
     "createdAt": "2025-04-06T06:28:18.550Z",
     "url": "/media/assouik_banner_image.png",
-    "thumbnailURL": "/media/assouik_banner_image-300x291.png",
     "filename": "assouik_banner_image.png",
     "mimeType": "image/png",
     "filesize": 221553,
     "width": 507,
     "height": 492,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/assouik_banner_image-300x291.png",
-        "width": 300,
-        "height": 291,
-        "mimeType": "image/png",
-        "filesize": 113743,
-        "filename": "assouik_banner_image-300x291.png"
-      },
-      "square": {
-        "url": "/media/assouik_banner_image-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 303315,
-        "filename": "assouik_banner_image-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 13,
@@ -2374,72 +486,13 @@
     "updatedAt": "2025-04-06T06:27:50.405Z",
     "createdAt": "2025-04-06T06:27:47.484Z",
     "url": "/media/boxing1.jpeg",
-    "thumbnailURL": "/media/boxing1-300x300.jpg",
     "filename": "boxing1.jpeg",
     "mimeType": "image/jpeg",
     "filesize": 613021,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/boxing1-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 15790,
-        "filename": "boxing1-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/boxing1-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 37933,
-        "filename": "boxing1-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/boxing1-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 52853,
-        "filename": "boxing1-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/boxing1-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 109519,
-        "filename": "boxing1-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/boxing1-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 238795,
-        "filename": "boxing1-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/boxing1-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 408460,
-        "filename": "boxing1-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/boxing1-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 92233,
-        "filename": "boxing1-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 12,
@@ -2448,72 +501,13 @@
     "updatedAt": "2025-04-06T06:21:45.790Z",
     "createdAt": "2025-04-06T06:21:45.438Z",
     "url": "/media/youssef.jpg",
-    "thumbnailURL": "/media/youssef-300x200.jpg",
     "filename": "youssef.jpg",
     "mimeType": "image/jpeg",
     "filesize": 505094,
     "width": 1200,
     "height": 800,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/youssef-300x200.jpg",
-        "width": 300,
-        "height": 200,
-        "mimeType": "image/jpeg",
-        "filesize": 10257,
-        "filename": "youssef-300x200.jpg"
-      },
-      "square": {
-        "url": "/media/youssef-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 39993,
-        "filename": "youssef-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/youssef-600x400.jpg",
-        "width": 600,
-        "height": 400,
-        "mimeType": "image/jpeg",
-        "filesize": 33298,
-        "filename": "youssef-600x400.jpg"
-      },
-      "medium": {
-        "url": "/media/youssef-900x600.jpg",
-        "width": 900,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 67561,
-        "filename": "youssef-900x600.jpg"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/youssef-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 88937,
-        "filename": "youssef-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 11,
@@ -2522,72 +516,13 @@
     "updatedAt": "2025-04-06T06:17:24.809Z",
     "createdAt": "2025-04-06T06:17:23.624Z",
     "url": "/media/slider4.png",
-    "thumbnailURL": "/media/slider4-300x214.png",
     "filename": "slider4.png",
     "mimeType": "image/png",
     "filesize": 1596348,
     "width": 1400,
     "height": 1000,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/slider4-300x214.png",
-        "width": 300,
-        "height": 214,
-        "mimeType": "image/png",
-        "filesize": 159810,
-        "filename": "slider4-300x214.png"
-      },
-      "square": {
-        "url": "/media/slider4-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 563360,
-        "filename": "slider4-500x500.png"
-      },
-      "small": {
-        "url": "/media/slider4-600x429.png",
-        "width": 600,
-        "height": 429,
-        "mimeType": "image/png",
-        "filesize": 578604,
-        "filename": "slider4-600x429.png"
-      },
-      "medium": {
-        "url": "/media/slider4-900x643.png",
-        "width": 900,
-        "height": 643,
-        "mimeType": "image/png",
-        "filesize": 1257248,
-        "filename": "slider4-900x643.png"
-      },
-      "large": {
-        "url": "/media/slider4-1400x1000.png",
-        "width": 1400,
-        "height": 1000,
-        "mimeType": "image/png",
-        "filesize": 808702,
-        "filename": "slider4-1400x1000.png"
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/slider4-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1628031,
-        "filename": "slider4-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 10,
@@ -2596,72 +531,13 @@
     "updatedAt": "2025-04-06T06:17:04.658Z",
     "createdAt": "2025-04-06T06:17:03.721Z",
     "url": "/media/slider3.png",
-    "thumbnailURL": "/media/slider3-300x300.png",
     "filename": "slider3.png",
     "mimeType": "image/png",
     "filesize": 1122180,
     "width": 960,
     "height": 960,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/slider3-300x300.png",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/png",
-        "filesize": 163739,
-        "filename": "slider3-300x300.png"
-      },
-      "square": {
-        "url": "/media/slider3-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 437442,
-        "filename": "slider3-500x500.png"
-      },
-      "small": {
-        "url": "/media/slider3-600x600.png",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/png",
-        "filesize": 618902,
-        "filename": "slider3-600x600.png"
-      },
-      "medium": {
-        "url": "/media/slider3-900x900.png",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/png",
-        "filesize": 1341499,
-        "filename": "slider3-900x900.png"
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/slider3-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1426145,
-        "filename": "slider3-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 9,
@@ -2670,72 +546,13 @@
     "updatedAt": "2025-04-06T06:16:47.904Z",
     "createdAt": "2025-04-06T06:16:46.346Z",
     "url": "/media/slider2.png",
-    "thumbnailURL": "/media/slider2-300x214.png",
     "filename": "slider2.png",
     "mimeType": "image/png",
     "filesize": 1713757,
     "width": 1400,
     "height": 1000,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/slider2-300x214.png",
-        "width": 300,
-        "height": 214,
-        "mimeType": "image/png",
-        "filesize": 150300,
-        "filename": "slider2-300x214.png"
-      },
-      "square": {
-        "url": "/media/slider2-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 521412,
-        "filename": "slider2-500x500.png"
-      },
-      "small": {
-        "url": "/media/slider2-600x429.png",
-        "width": 600,
-        "height": 429,
-        "mimeType": "image/png",
-        "filesize": 555782,
-        "filename": "slider2-600x429.png"
-      },
-      "medium": {
-        "url": "/media/slider2-900x643.png",
-        "width": 900,
-        "height": 643,
-        "mimeType": "image/png",
-        "filesize": 1217191,
-        "filename": "slider2-900x643.png"
-      },
-      "large": {
-        "url": "/media/slider2-1400x1000.png",
-        "width": 1400,
-        "height": 1000,
-        "mimeType": "image/png",
-        "filesize": 874044,
-        "filename": "slider2-1400x1000.png"
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/slider2-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1676077,
-        "filename": "slider2-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 8,
@@ -2744,72 +561,13 @@
     "updatedAt": "2025-04-06T06:15:26.340Z",
     "createdAt": "2025-04-06T06:15:23.280Z",
     "url": "/media/slider1.png",
-    "thumbnailURL": "/media/slider1-300x200.png",
     "filename": "slider1.png",
     "mimeType": "image/png",
     "filesize": 3026646,
     "width": 2048,
     "height": 1365,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/slider1-300x200.png",
-        "width": 300,
-        "height": 200,
-        "mimeType": "image/png",
-        "filesize": 116863,
-        "filename": "slider1-300x200.png"
-      },
-      "square": {
-        "url": "/media/slider1-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 444285,
-        "filename": "slider1-500x500.png"
-      },
-      "small": {
-        "url": "/media/slider1-600x400.png",
-        "width": 600,
-        "height": 400,
-        "mimeType": "image/png",
-        "filesize": 427313,
-        "filename": "slider1-600x400.png"
-      },
-      "medium": {
-        "url": "/media/slider1-900x600.png",
-        "width": 900,
-        "height": 600,
-        "mimeType": "image/png",
-        "filesize": 929149,
-        "filename": "slider1-900x600.png"
-      },
-      "large": {
-        "url": "/media/slider1-1400x933.png",
-        "width": 1400,
-        "height": 933,
-        "mimeType": "image/png",
-        "filesize": 2166807,
-        "filename": "slider1-1400x933.png"
-      },
-      "xlarge": {
-        "url": "/media/slider1-1920x1280.png",
-        "width": 1920,
-        "height": 1280,
-        "mimeType": "image/png",
-        "filesize": 3801083,
-        "filename": "slider1-1920x1280.png"
-      },
-      "og": {
-        "url": "/media/slider1-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1379036,
-        "filename": "slider1-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 7,
@@ -2818,72 +576,13 @@
     "updatedAt": "2025-04-05T11:19:50.188Z",
     "createdAt": "2025-04-05T11:19:50.168Z",
     "url": "/media/footer_logo.png",
-    "thumbnailURL": null,
     "filename": "footer_logo.png",
     "mimeType": "image/png",
     "filesize": 2651,
     "width": 60,
     "height": 61,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 6,
@@ -2892,72 +591,13 @@
     "updatedAt": "2025-04-05T11:18:06.787Z",
     "createdAt": "2025-04-05T11:18:06.777Z",
     "url": "/media/assouik-gym-logo-2.svg",
-    "thumbnailURL": null,
     "filename": "assouik-gym-logo-2.svg",
     "mimeType": "image/svg+xml",
     "filesize": 175382,
     "width": 1080,
     "height": 423,
     "focalX": null,
-    "focalY": null,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": null
   },
   {
     "id": 5,
@@ -2966,72 +606,13 @@
     "updatedAt": "2025-04-05T11:17:24.577Z",
     "createdAt": "2025-04-05T11:17:21.681Z",
     "url": "/media/gym2-2.jpg",
-    "thumbnailURL": "/media/gym2-2-300x300.jpg",
     "filename": "gym2-2.jpg",
     "mimeType": "image/jpeg",
     "filesize": 359373,
     "width": 2048,
     "height": 2048,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/gym2-2-300x300.jpg",
-        "width": 300,
-        "height": 300,
-        "mimeType": "image/jpeg",
-        "filesize": 8161,
-        "filename": "gym2-2-300x300.jpg"
-      },
-      "square": {
-        "url": "/media/gym2-2-500x500.jpg",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "filesize": 17667,
-        "filename": "gym2-2-500x500.jpg"
-      },
-      "small": {
-        "url": "/media/gym2-2-600x600.jpg",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/jpeg",
-        "filesize": 23680,
-        "filename": "gym2-2-600x600.jpg"
-      },
-      "medium": {
-        "url": "/media/gym2-2-900x900.jpg",
-        "width": 900,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "filesize": 46568,
-        "filename": "gym2-2-900x900.jpg"
-      },
-      "large": {
-        "url": "/media/gym2-2-1400x1400.jpg",
-        "width": 1400,
-        "height": 1400,
-        "mimeType": "image/jpeg",
-        "filesize": 108438,
-        "filename": "gym2-2-1400x1400.jpg"
-      },
-      "xlarge": {
-        "url": "/media/gym2-2-1920x1920.jpg",
-        "width": 1920,
-        "height": 1920,
-        "mimeType": "image/jpeg",
-        "filesize": 208728,
-        "filename": "gym2-2-1920x1920.jpg"
-      },
-      "og": {
-        "url": "/media/gym2-2-1200x630.jpg",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/jpeg",
-        "filesize": 50456,
-        "filename": "gym2-2-1200x630.jpg"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 4,
@@ -3040,72 +621,13 @@
     "updatedAt": "2025-04-05T11:16:51.533Z",
     "createdAt": "2025-04-05T11:16:50.650Z",
     "url": "/media/Group%207-2.png",
-    "thumbnailURL": "/media/Group%207-2-300x527.png",
     "filename": "Group 7-2.png",
     "mimeType": "image/png",
     "filesize": 375439,
     "width": 374,
     "height": 657,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": "/media/Group%207-2-300x527.png",
-        "width": 300,
-        "height": 527,
-        "mimeType": "image/png",
-        "filesize": 297806,
-        "filename": "Group 7-2-300x527.png"
-      },
-      "square": {
-        "url": "/media/Group%207-2-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mimeType": "image/png",
-        "filesize": 455310,
-        "filename": "Group 7-2-500x500.png"
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": "/media/Group%207-2-1200x630.png",
-        "width": 1200,
-        "height": 630,
-        "mimeType": "image/png",
-        "filesize": 1075700,
-        "filename": "Group 7-2-1200x630.png"
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 3,
@@ -3114,72 +636,13 @@
     "updatedAt": "2025-04-05T11:15:56.762Z",
     "createdAt": "2025-04-05T11:15:56.747Z",
     "url": "/media/Vector-2.png",
-    "thumbnailURL": null,
     "filename": "Vector-2.png",
     "mimeType": "image/png",
     "filesize": 828,
     "width": 24,
     "height": 24,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 2,
@@ -3188,72 +651,13 @@
     "updatedAt": "2025-04-05T11:14:12.926Z",
     "createdAt": "2025-04-05T11:14:12.912Z",
     "url": "/media/ONE_Championship%2Blogo-1.png",
-    "thumbnailURL": null,
     "filename": "ONE_Championship+logo-1.png",
     "mimeType": "image/png",
     "filesize": 2882,
     "width": 66,
     "height": 40,
     "focalX": 50,
-    "focalY": 50,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": 50
   },
   {
     "id": 1,
@@ -3262,71 +666,12 @@
     "updatedAt": "2025-04-05T11:13:44.573Z",
     "createdAt": "2025-04-05T11:13:44.409Z",
     "url": "/media/youssef-2.mp4",
-    "thumbnailURL": null,
     "filename": "youssef-2.mp4",
     "mimeType": "video/mp4",
     "filesize": 38465210,
     "width": null,
     "height": null,
     "focalX": null,
-    "focalY": null,
-    "sizes": {
-      "thumbnail": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "square": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "small": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "medium": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "large": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "xlarge": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      },
-      "og": {
-        "url": null,
-        "width": null,
-        "height": null,
-        "mimeType": null,
-        "filesize": null,
-        "filename": null
-      }
-    }
+    "focalY": null
   }
 ]

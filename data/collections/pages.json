@@ -38,72 +38,13 @@
               "updatedAt": "2025-06-10T13:02:56.941Z",
               "createdAt": "2025-06-10T13:02:56.897Z",
               "url": "/media/youssef-assouik-coach.jpg",
-              "thumbnailURL": "/media/youssef-assouik-coach-300x300.jpg",
               "filename": "youssef-assouik-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 38632,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/youssef-assouik-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 10430,
-                  "filename": "youssef-assouik-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/youssef-assouik-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26423,
-                  "filename": "youssef-assouik-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Youssef Assouik",
             "description": {
@@ -154,72 +95,13 @@
               "updatedAt": "2025-06-10T13:02:57.034Z",
               "createdAt": "2025-06-10T13:02:56.989Z",
               "url": "/media/youssef-bendahman-coach.jpg",
-              "thumbnailURL": "/media/youssef-bendahman-coach-300x300.jpg",
               "filename": "youssef-bendahman-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 34281,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/youssef-bendahman-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 13443,
-                  "filename": "youssef-bendahman-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/youssef-bendahman-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 27983,
-                  "filename": "youssef-bendahman-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Youssef Bendahman",
             "description": {
@@ -270,72 +152,13 @@
               "updatedAt": "2025-06-10T13:02:56.852Z",
               "createdAt": "2025-06-10T13:02:56.801Z",
               "url": "/media/yacine-touabti-coach.jpg",
-              "thumbnailURL": "/media/yacine-touabti-coach-300x300.jpg",
               "filename": "yacine-touabti-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 30228,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/yacine-touabti-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 8639,
-                  "filename": "yacine-touabti-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/yacine-touabti-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 22596,
-                  "filename": "yacine-touabti-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Yacine Touabti",
             "description": {
@@ -386,72 +209,13 @@
               "updatedAt": "2025-06-10T13:02:56.405Z",
               "createdAt": "2025-06-10T13:02:56.352Z",
               "url": "/media/emilie-coach.jpg",
-              "thumbnailURL": "/media/emilie-coach-300x300.jpg",
               "filename": "emilie-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 71302,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/emilie-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 14104,
-                  "filename": "emilie-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/emilie-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 36152,
-                  "filename": "emilie-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Emilie",
             "description": {
@@ -502,72 +266,13 @@
               "updatedAt": "2025-06-10T13:02:56.563Z",
               "createdAt": "2025-06-10T13:02:56.503Z",
               "url": "/media/kasra-mir-coach.jpg",
-              "thumbnailURL": "/media/kasra-mir-coach-300x300.jpg",
               "filename": "kasra-mir-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 58492,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/kasra-mir-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15087,
-                  "filename": "kasra-mir-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/kasra-mir-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 33113,
-                  "filename": "kasra-mir-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Kasra Mir",
             "description": {
@@ -618,72 +323,13 @@
               "updatedAt": "2025-06-10T13:02:56.685Z",
               "createdAt": "2025-06-10T13:02:56.623Z",
               "url": "/media/lucas-undall-coach.jpg",
-              "thumbnailURL": "/media/lucas-undall-coach-300x300.jpg",
               "filename": "lucas-undall-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 117013,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/lucas-undall-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 9585,
-                  "filename": "lucas-undall-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/lucas-undall-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 25013,
-                  "filename": "lucas-undall-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Lucas Undall",
             "description": {
@@ -734,72 +380,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "David Beheineh",
             "description": {
@@ -850,72 +437,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Andreas Lund",
             "description": {
@@ -966,72 +494,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Lise Bruun",
             "description": {
@@ -1141,72 +610,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Ayah",
             "description": {
@@ -1257,72 +667,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Vilmer",
             "description": {
@@ -1373,72 +724,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Yusuf Andersen Khatib",
             "description": {
@@ -1489,72 +781,13 @@
               "updatedAt": "2025-06-10T13:02:56.760Z",
               "createdAt": "2025-06-10T13:02:56.726Z",
               "url": "/media/unknown-coach.jpg",
-              "thumbnailURL": "/media/unknown-coach-300x300.jpg",
               "filename": "unknown-coach.jpg",
               "mimeType": "image/jpeg",
               "filesize": 3906,
               "width": 500,
               "height": 500,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/unknown-coach-300x300.jpg",
-                  "width": 300,
-                  "height": 300,
-                  "mimeType": "image/jpeg",
-                  "filesize": 2902,
-                  "filename": "unknown-coach-300x300.jpg"
-                },
-                "square": {
-                  "url": "/media/unknown-coach-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 4171,
-                  "filename": "unknown-coach-500x500.jpg"
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "heading": "Adam Undall",
             "description": {
@@ -1609,72 +842,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Mød de erfarne trænere hos Assouik Gym. Vores passionerede instruktører guider dig i thaiboksning, Muay Thai og kickboksning – uanset niveau og alder."
     },
@@ -1724,72 +898,13 @@
               "updatedAt": "2025-06-07T18:45:31.926Z",
               "createdAt": "2025-06-07T18:45:31.445Z",
               "url": "/media/youssef-assouik.jpg",
-              "thumbnailURL": "/media/youssef-assouik-300x450.jpg",
               "filename": "youssef-assouik.jpg",
               "mimeType": "image/jpeg",
               "filesize": 416071,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/youssef-assouik-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 23373,
-                  "filename": "youssef-assouik-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/youssef-assouik-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 49831,
-                  "filename": "youssef-assouik-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/youssef-assouik-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 84122,
-                  "filename": "youssef-assouik-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/youssef-assouik-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 163789,
-                  "filename": "youssef-assouik-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Youssef Assouik",
             "description": "Verdensmester & ONE-fighter",
@@ -1818,72 +933,13 @@
               "updatedAt": "2025-06-07T18:45:30.692Z",
               "createdAt": "2025-06-07T18:45:30.367Z",
               "url": "/media/yaccine-touabti.jpg",
-              "thumbnailURL": "/media/yaccine-touabti-300x450.jpg",
               "filename": "yaccine-touabti.jpg",
               "mimeType": "image/jpeg",
               "filesize": 87939,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/yaccine-touabti-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 13870,
-                  "filename": "yaccine-touabti-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/yaccine-touabti-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 23175,
-                  "filename": "yaccine-touabti-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/yaccine-touabti-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 44124,
-                  "filename": "yaccine-touabti-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/yaccine-touabti-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 35710,
-                  "filename": "yaccine-touabti-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Yacine Touabti",
             "description": "Danmarksmester & coach",
@@ -1912,72 +968,13 @@
               "updatedAt": "2025-06-07T18:45:32.589Z",
               "createdAt": "2025-06-07T18:45:32.037Z",
               "url": "/media/youssef-bendahman.jpg",
-              "thumbnailURL": "/media/youssef-bendahman-300x450.jpg",
               "filename": "youssef-bendahman.jpg",
               "mimeType": "image/jpeg",
               "filesize": 122871,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/youssef-bendahman-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 19585,
-                  "filename": "youssef-bendahman-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/youssef-bendahman-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 36211,
-                  "filename": "youssef-bendahman-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/youssef-bendahman-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 57978,
-                  "filename": "youssef-bendahman-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/youssef-bendahman-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 71712,
-                  "filename": "youssef-bendahman-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Youssef Bendahman",
             "description": "Danmarksmester & coach",
@@ -2625,72 +1622,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Få personlig træning i thaiboksning, Muay Thai eller kickboksning hos Assouik Gym. Intensiv og skræddersyet vejledning for hurtige resultater."
     },
@@ -3284,72 +2222,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Download Assouik Gym appen for nem booking af hold, overblik over skema og medlemsinformation. Din genvej til træning i thaiboksning og kickboksning."
     },
@@ -3443,72 +2322,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Polterabend",
             "description": "Giv brud eller gom en uforglemmelig oplevelse med en sjov og svedig thaibokse-session. Vi sørger for grin, energi og en aktiv start på dagen."
@@ -3522,72 +2342,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Firmatræning",
             "description": "Styrk sammenholdet på arbejdspladsen med en anderledes og effektiv team-aktivitet. Alle kan være med – uanset niveau."
@@ -3601,72 +2362,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Andet",
             "description": "Vi er åbne for mulighederne, så lad os høre om dit arrangement."
@@ -3693,72 +2395,13 @@
             "updatedAt": "2025-04-06T06:15:26.340Z",
             "createdAt": "2025-04-06T06:15:23.280Z",
             "url": "/media/slider1.png",
-            "thumbnailURL": "/media/slider1-300x200.png",
             "filename": "slider1.png",
             "mimeType": "image/png",
             "filesize": 3026646,
             "width": 2048,
             "height": 1365,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/slider1-300x200.png",
-                "width": 300,
-                "height": 200,
-                "mimeType": "image/png",
-                "filesize": 116863,
-                "filename": "slider1-300x200.png"
-              },
-              "square": {
-                "url": "/media/slider1-500x500.png",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/png",
-                "filesize": 444285,
-                "filename": "slider1-500x500.png"
-              },
-              "small": {
-                "url": "/media/slider1-600x400.png",
-                "width": 600,
-                "height": 400,
-                "mimeType": "image/png",
-                "filesize": 427313,
-                "filename": "slider1-600x400.png"
-              },
-              "medium": {
-                "url": "/media/slider1-900x600.png",
-                "width": 900,
-                "height": 600,
-                "mimeType": "image/png",
-                "filesize": 929149,
-                "filename": "slider1-900x600.png"
-              },
-              "large": {
-                "url": "/media/slider1-1400x933.png",
-                "width": 1400,
-                "height": 933,
-                "mimeType": "image/png",
-                "filesize": 2166807,
-                "filename": "slider1-1400x933.png"
-              },
-              "xlarge": {
-                "url": "/media/slider1-1920x1280.png",
-                "width": 1920,
-                "height": 1280,
-                "mimeType": "image/png",
-                "filesize": 3801083,
-                "filename": "slider1-1920x1280.png"
-              },
-              "og": {
-                "url": "/media/slider1-1200x630.png",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/png",
-                "filesize": 1379036,
-                "filename": "slider1-1200x630.png"
-              }
-            }
+            "focalY": 50
           },
           "mobileMedia": null,
           "youtubeUrl": null
@@ -3774,72 +2417,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Lej Assouik Gym's træningslokaler til events, workshops eller privat træning i Brønshøj København. Ideelle faciliteter til kampsport og fitness."
     },
@@ -3923,72 +2507,13 @@
             "updatedAt": "2025-06-07T18:45:27.710Z",
             "createdAt": "2025-06-07T18:45:26.920Z",
             "url": "/media/assouik-gym-training.jpg",
-            "thumbnailURL": "/media/assouik-gym-training-300x450.jpg",
             "filename": "assouik-gym-training.jpg",
             "mimeType": "image/jpeg",
             "filesize": 356649,
             "width": 1024,
             "height": 1536,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/assouik-gym-training-300x450.jpg",
-                "width": 300,
-                "height": 450,
-                "mimeType": "image/jpeg",
-                "filesize": 17222,
-                "filename": "assouik-gym-training-300x450.jpg"
-              },
-              "square": {
-                "url": "/media/assouik-gym-training-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 27972,
-                "filename": "assouik-gym-training-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/assouik-gym-training-600x900.jpg",
-                "width": 600,
-                "height": 900,
-                "mimeType": "image/jpeg",
-                "filesize": 53965,
-                "filename": "assouik-gym-training-600x900.jpg"
-              },
-              "medium": {
-                "url": "/media/assouik-gym-training-900x1350.jpg",
-                "width": 900,
-                "height": 1350,
-                "mimeType": "image/jpeg",
-                "filesize": 126512,
-                "filename": "assouik-gym-training-900x1350.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/assouik-gym-training-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 78056,
-                "filename": "assouik-gym-training-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           },
           "mobileMedia": {
             "id": 31,
@@ -3997,72 +2522,13 @@
             "updatedAt": "2025-06-07T18:45:27.710Z",
             "createdAt": "2025-06-07T18:45:26.920Z",
             "url": "/media/assouik-gym-training.jpg",
-            "thumbnailURL": "/media/assouik-gym-training-300x450.jpg",
             "filename": "assouik-gym-training.jpg",
             "mimeType": "image/jpeg",
             "filesize": 356649,
             "width": 1024,
             "height": 1536,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/assouik-gym-training-300x450.jpg",
-                "width": 300,
-                "height": 450,
-                "mimeType": "image/jpeg",
-                "filesize": 17222,
-                "filename": "assouik-gym-training-300x450.jpg"
-              },
-              "square": {
-                "url": "/media/assouik-gym-training-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 27972,
-                "filename": "assouik-gym-training-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/assouik-gym-training-600x900.jpg",
-                "width": 600,
-                "height": 900,
-                "mimeType": "image/jpeg",
-                "filesize": 53965,
-                "filename": "assouik-gym-training-600x900.jpg"
-              },
-              "medium": {
-                "url": "/media/assouik-gym-training-900x1350.jpg",
-                "width": 900,
-                "height": 1350,
-                "mimeType": "image/jpeg",
-                "filesize": 126512,
-                "filename": "assouik-gym-training-900x1350.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/assouik-gym-training-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 78056,
-                "filename": "assouik-gym-training-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           },
           "youtubeUrl": null
         }
@@ -4117,72 +2583,13 @@
             "updatedAt": "2025-06-07T18:45:28.867Z",
             "createdAt": "2025-06-07T18:45:28.234Z",
             "url": "/media/muay-thai-respect.jpg",
-            "thumbnailURL": "/media/muay-thai-respect-300x410.jpg",
             "filename": "muay-thai-respect.jpg",
             "mimeType": "image/jpeg",
             "filesize": 138936,
             "width": 1024,
             "height": 1400,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/muay-thai-respect-300x410.jpg",
-                "width": 300,
-                "height": 410,
-                "mimeType": "image/jpeg",
-                "filesize": 28890,
-                "filename": "muay-thai-respect-300x410.jpg"
-              },
-              "square": {
-                "url": "/media/muay-thai-respect-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 49058,
-                "filename": "muay-thai-respect-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/muay-thai-respect-600x820.jpg",
-                "width": 600,
-                "height": 820,
-                "mimeType": "image/jpeg",
-                "filesize": 77867,
-                "filename": "muay-thai-respect-600x820.jpg"
-              },
-              "medium": {
-                "url": "/media/muay-thai-respect-900x1230.jpg",
-                "width": 900,
-                "height": 1230,
-                "mimeType": "image/jpeg",
-                "filesize": 135361,
-                "filename": "muay-thai-respect-900x1230.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/muay-thai-respect-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 70185,
-                "filename": "muay-thai-respect-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           },
           "mobileMedia": {
             "id": 33,
@@ -4191,72 +2598,13 @@
             "updatedAt": "2025-06-07T18:45:28.867Z",
             "createdAt": "2025-06-07T18:45:28.234Z",
             "url": "/media/muay-thai-respect.jpg",
-            "thumbnailURL": "/media/muay-thai-respect-300x410.jpg",
             "filename": "muay-thai-respect.jpg",
             "mimeType": "image/jpeg",
             "filesize": 138936,
             "width": 1024,
             "height": 1400,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/muay-thai-respect-300x410.jpg",
-                "width": 300,
-                "height": 410,
-                "mimeType": "image/jpeg",
-                "filesize": 28890,
-                "filename": "muay-thai-respect-300x410.jpg"
-              },
-              "square": {
-                "url": "/media/muay-thai-respect-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 49058,
-                "filename": "muay-thai-respect-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/muay-thai-respect-600x820.jpg",
-                "width": 600,
-                "height": 820,
-                "mimeType": "image/jpeg",
-                "filesize": 77867,
-                "filename": "muay-thai-respect-600x820.jpg"
-              },
-              "medium": {
-                "url": "/media/muay-thai-respect-900x1230.jpg",
-                "width": 900,
-                "height": 1230,
-                "mimeType": "image/jpeg",
-                "filesize": 135361,
-                "filename": "muay-thai-respect-900x1230.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/muay-thai-respect-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 70185,
-                "filename": "muay-thai-respect-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           },
           "youtubeUrl": null
         }
@@ -4271,72 +2619,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "\nLær Assouik Gym at kende – en dedikeret kampsportsklub i Brønshøj/København med fokus på thaiboksning, Muay Thai og kickboksning for alle aldre."
     },
@@ -4554,72 +2843,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Se priser og find det rette medlemskab hos Assouik Gym. Træn thaiboksning, Muay Thai og kickboksning i Brønshøj København."
     },
@@ -4711,72 +2941,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+18 år",
             "price": "479 dkk / md",
@@ -4818,72 +2989,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+18 år",
             "price": "479 dkk / md",
@@ -4925,72 +3037,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+18 år",
             "price": "479 dkk / md",
@@ -5032,72 +3085,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+13 år",
             "price": "479 dkk / md",
@@ -5139,72 +3133,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+15 år",
             "price": "300 dkk / md",
@@ -5246,72 +3181,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "13-17 år",
             "price": "300 dkk / md",
@@ -5353,72 +3229,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "7-12 år",
             "price": "279 dkk / md",
@@ -5468,72 +3285,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Find dit hold og se skemaet for thaiboksning, Muay Thai og kickboksning hos Assouik Gym i Brønshøj København. Hold for alle niveauer, aldre og køn."
     },
@@ -5612,72 +3370,13 @@
             "updatedAt": "2025-06-07T18:26:49.864Z",
             "createdAt": "2025-06-07T18:26:49.780Z",
             "url": "/media/hero.mp4",
-            "thumbnailURL": null,
             "filename": "hero.mp4",
             "mimeType": "video/mp4",
             "filesize": 12290792,
             "width": null,
             "height": null,
             "focalX": null,
-            "focalY": null,
-            "sizes": {
-              "thumbnail": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "square": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "small": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "medium": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              }
-            }
+            "focalY": null
           },
           "youtubeUrl": "",
           "fallbackImage": {
@@ -5687,72 +3386,13 @@
             "updatedAt": "2025-06-07T18:27:15.498Z",
             "createdAt": "2025-06-07T18:27:14.939Z",
             "url": "/media/Hero%20fallback%20image.jpg",
-            "thumbnailURL": "/media/Hero%20fallback%20image-300x169.jpg",
             "filename": "Hero fallback image.jpg",
             "mimeType": "image/jpeg",
             "filesize": 42876,
             "width": 1538,
             "height": 865,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/Hero%20fallback%20image-300x169.jpg",
-                "width": 300,
-                "height": 169,
-                "mimeType": "image/jpeg",
-                "filesize": 3407,
-                "filename": "Hero fallback image-300x169.jpg"
-              },
-              "square": {
-                "url": "/media/Hero%20fallback%20image-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 10264,
-                "filename": "Hero fallback image-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/Hero%20fallback%20image-600x337.jpg",
-                "width": 600,
-                "height": 337,
-                "mimeType": "image/jpeg",
-                "filesize": 9044,
-                "filename": "Hero fallback image-600x337.jpg"
-              },
-              "medium": {
-                "url": "/media/Hero%20fallback%20image-900x506.jpg",
-                "width": 900,
-                "height": 506,
-                "mimeType": "image/jpeg",
-                "filesize": 16460,
-                "filename": "Hero fallback image-900x506.jpg"
-              },
-              "large": {
-                "url": "/media/Hero%20fallback%20image-1400x787.jpg",
-                "width": 1400,
-                "height": 787,
-                "mimeType": "image/jpeg",
-                "filesize": 31253,
-                "filename": "Hero fallback image-1400x787.jpg"
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/Hero%20fallback%20image-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 23917,
-                "filename": "Hero fallback image-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           }
         },
         "overlayColor": "#000000",
@@ -5767,72 +3407,13 @@
         "updatedAt": "2025-04-05T11:14:12.926Z",
         "createdAt": "2025-04-05T11:14:12.912Z",
         "url": "/media/ONE_Championship%2Blogo-1.png",
-        "thumbnailURL": null,
         "filename": "ONE_Championship+logo-1.png",
         "mimeType": "image/png",
         "filesize": 2882,
         "width": 66,
         "height": 40,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "square": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "small": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "medium": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          }
-        }
+        "focalY": 50
       }
     },
     "layout": [
@@ -5885,72 +3466,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Fællesskab",
             "description": "Et stærkt fællesskab, der løfter dig"
@@ -5964,72 +3486,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Respekt",
             "description": "Respekt i alt, vi gør"
@@ -6043,72 +3506,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Personlig Udvikling",
             "description": "Bliv den bedste version af dig selv"
@@ -6143,72 +3547,13 @@
             "updatedAt": "2025-06-07T18:47:27.840Z",
             "createdAt": "2025-06-07T18:45:30.790Z",
             "url": "/media/youssef-assouik-belts.jpg",
-            "thumbnailURL": "/media/youssef-assouik-belts-300x450.jpg",
             "filename": "youssef-assouik-belts.jpg",
             "mimeType": "image/jpeg",
             "filesize": 161775,
             "width": 1200,
             "height": 1799,
             "focalX": 48,
-            "focalY": 24,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/youssef-assouik-belts-300x450.jpg",
-                "width": 300,
-                "height": 450,
-                "mimeType": "image/jpeg",
-                "filesize": 21522,
-                "filename": "youssef-assouik-belts-300x450.jpg"
-              },
-              "square": {
-                "url": "/media/youssef-assouik-belts-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 32870,
-                "filename": "youssef-assouik-belts-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/youssef-assouik-belts-600x900.jpg",
-                "width": 600,
-                "height": 900,
-                "mimeType": "image/jpeg",
-                "filesize": 64259,
-                "filename": "youssef-assouik-belts-600x900.jpg"
-              },
-              "medium": {
-                "url": "/media/youssef-assouik-belts-900x1349.jpg",
-                "width": 900,
-                "height": 1349,
-                "mimeType": "image/jpeg",
-                "filesize": 121767,
-                "filename": "youssef-assouik-belts-900x1349.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/youssef-assouik-belts-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 38903,
-                "filename": "youssef-assouik-belts-1200x630.jpg"
-              }
-            }
+            "focalY": 24
           },
           "mobileMedia": {
             "id": 37,
@@ -6217,72 +3562,13 @@
             "updatedAt": "2025-06-07T18:47:27.840Z",
             "createdAt": "2025-06-07T18:45:30.790Z",
             "url": "/media/youssef-assouik-belts.jpg",
-            "thumbnailURL": "/media/youssef-assouik-belts-300x450.jpg",
             "filename": "youssef-assouik-belts.jpg",
             "mimeType": "image/jpeg",
             "filesize": 161775,
             "width": 1200,
             "height": 1799,
             "focalX": 48,
-            "focalY": 24,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/youssef-assouik-belts-300x450.jpg",
-                "width": 300,
-                "height": 450,
-                "mimeType": "image/jpeg",
-                "filesize": 21522,
-                "filename": "youssef-assouik-belts-300x450.jpg"
-              },
-              "square": {
-                "url": "/media/youssef-assouik-belts-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 32870,
-                "filename": "youssef-assouik-belts-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/youssef-assouik-belts-600x900.jpg",
-                "width": 600,
-                "height": 900,
-                "mimeType": "image/jpeg",
-                "filesize": 64259,
-                "filename": "youssef-assouik-belts-600x900.jpg"
-              },
-              "medium": {
-                "url": "/media/youssef-assouik-belts-900x1349.jpg",
-                "width": 900,
-                "height": 1349,
-                "mimeType": "image/jpeg",
-                "filesize": 121767,
-                "filename": "youssef-assouik-belts-900x1349.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/youssef-assouik-belts-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 38903,
-                "filename": "youssef-assouik-belts-1200x630.jpg"
-              }
-            }
+            "focalY": 24
           },
           "youtubeUrl": null
         }
@@ -6303,72 +3589,13 @@
               "updatedAt": "2025-06-07T18:45:29.410Z",
               "createdAt": "2025-06-07T18:45:28.973Z",
               "url": "/media/muay-thai.jpg",
-              "thumbnailURL": "/media/muay-thai-300x450.jpg",
               "filename": "muay-thai.jpg",
               "mimeType": "image/jpeg",
               "filesize": 106294,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/muay-thai-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 20783,
-                  "filename": "muay-thai-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/muay-thai-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 30931,
-                  "filename": "muay-thai-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/muay-thai-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 58961,
-                  "filename": "muay-thai-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/muay-thai-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 55930,
-                  "filename": "muay-thai-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Thaiboksning",
             "description": "Vores professionelle boksering er hjertet i gymmet – her bliver der trænet, svedt og kæmpet. Perfekt til både tekniktræning, sparring og kampforberedelse.",
@@ -6389,72 +3616,13 @@
               "updatedAt": "2025-06-07T18:45:28.133Z",
               "createdAt": "2025-06-07T18:45:27.809Z",
               "url": "/media/fitness.jpg",
-              "thumbnailURL": "/media/fitness-300x450.jpg",
               "filename": "fitness.jpg",
               "mimeType": "image/jpeg",
               "filesize": 48726,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/fitness-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 7112,
-                  "filename": "fitness-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/fitness-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 9310,
-                  "filename": "fitness-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/fitness-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 18051,
-                  "filename": "fitness-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/fitness-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15276,
-                  "filename": "fitness-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Fitness",
             "description": "Udover kamptræning tilbyder vi et komplet træningsområde med vægte, kettlebells og fitnessmaskiner – så du kan styrke din krop på alle niveauer. ",
@@ -6475,72 +3643,13 @@
               "updatedAt": "2025-06-07T18:45:30.227Z",
               "createdAt": "2025-06-07T18:45:29.577Z",
               "url": "/media/thaiboxing.jpg",
-              "thumbnailURL": "/media/thaiboxing-300x450.jpg",
               "filename": "thaiboxing.jpg",
               "mimeType": "image/jpeg",
               "filesize": 180153,
               "width": 800,
               "height": 1200,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/thaiboxing-300x450.jpg",
-                  "width": 300,
-                  "height": 450,
-                  "mimeType": "image/jpeg",
-                  "filesize": 16170,
-                  "filename": "thaiboxing-300x450.jpg"
-                },
-                "square": {
-                  "url": "/media/thaiboxing-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26850,
-                  "filename": "thaiboxing-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/thaiboxing-600x900.jpg",
-                  "width": 600,
-                  "height": 900,
-                  "mimeType": "image/jpeg",
-                  "filesize": 48420,
-                  "filename": "thaiboxing-600x900.jpg"
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/thaiboxing-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 64882,
-                  "filename": "thaiboxing-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "title": "Personlig Træning",
             "description": "Få 100 % fokus på dine mål med personlig træning. Vi tilpasser forløbet til dit niveau og tempo, så du udvikler dig teknisk, fysisk og mentalt – med en erfaren coach ved din side.",
@@ -6561,72 +3670,13 @@
               "updatedAt": "2025-04-06T06:15:26.340Z",
               "createdAt": "2025-04-06T06:15:23.280Z",
               "url": "/media/slider1.png",
-              "thumbnailURL": "/media/slider1-300x200.png",
               "filename": "slider1.png",
               "mimeType": "image/png",
               "filesize": 3026646,
               "width": 2048,
               "height": 1365,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/slider1-300x200.png",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/png",
-                  "filesize": 116863,
-                  "filename": "slider1-300x200.png"
-                },
-                "square": {
-                  "url": "/media/slider1-500x500.png",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/png",
-                  "filesize": 444285,
-                  "filename": "slider1-500x500.png"
-                },
-                "small": {
-                  "url": "/media/slider1-600x400.png",
-                  "width": 600,
-                  "height": 400,
-                  "mimeType": "image/png",
-                  "filesize": 427313,
-                  "filename": "slider1-600x400.png"
-                },
-                "medium": {
-                  "url": "/media/slider1-900x600.png",
-                  "width": 900,
-                  "height": 600,
-                  "mimeType": "image/png",
-                  "filesize": 929149,
-                  "filename": "slider1-900x600.png"
-                },
-                "large": {
-                  "url": "/media/slider1-1400x933.png",
-                  "width": 1400,
-                  "height": 933,
-                  "mimeType": "image/png",
-                  "filesize": 2166807,
-                  "filename": "slider1-1400x933.png"
-                },
-                "xlarge": {
-                  "url": "/media/slider1-1920x1280.png",
-                  "width": 1920,
-                  "height": 1280,
-                  "mimeType": "image/png",
-                  "filesize": 3801083,
-                  "filename": "slider1-1920x1280.png"
-                },
-                "og": {
-                  "url": "/media/slider1-1200x630.png",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/png",
-                  "filesize": 1379036,
-                  "filename": "slider1-1200x630.png"
-                }
-              }
+              "focalY": 50
             },
             "title": "Leje af klubben",
             "description": "Du kan leje hele klubben til dit arrangement og booke en trænere til at stå i spidsen for eventet.",
@@ -6690,72 +3740,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Woke try-hard plant pickled",
             "description": "Flexitarian mixtape chic knausgaard."
@@ -6769,72 +3760,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Woke try-hard plant pickled",
             "description": "Flexitarian mixtape chic knausgaard."
@@ -6848,72 +3780,13 @@
               "updatedAt": "2025-04-05T11:15:56.762Z",
               "createdAt": "2025-04-05T11:15:56.747Z",
               "url": "/media/Vector-2.png",
-              "thumbnailURL": null,
               "filename": "Vector-2.png",
               "mimeType": "image/png",
               "filesize": 828,
               "width": 24,
               "height": 24,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "square": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "small": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "medium": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                }
-              }
+              "focalY": 50
             },
             "title": "Woke try-hard plant pickled",
             "description": "Flexitarian mixtape chic knausgaard."
@@ -6929,72 +3802,13 @@
             "updatedAt": "2025-04-05T11:16:51.533Z",
             "createdAt": "2025-04-05T11:16:50.650Z",
             "url": "/media/Group%207-2.png",
-            "thumbnailURL": "/media/Group%207-2-300x527.png",
             "filename": "Group 7-2.png",
             "mimeType": "image/png",
             "filesize": 375439,
             "width": 374,
             "height": 657,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/Group%207-2-300x527.png",
-                "width": 300,
-                "height": 527,
-                "mimeType": "image/png",
-                "filesize": 297806,
-                "filename": "Group 7-2-300x527.png"
-              },
-              "square": {
-                "url": "/media/Group%207-2-500x500.png",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/png",
-                "filesize": 455310,
-                "filename": "Group 7-2-500x500.png"
-              },
-              "small": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "medium": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/Group%207-2-1200x630.png",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/png",
-                "filesize": 1075700,
-                "filename": "Group 7-2-1200x630.png"
-              }
-            }
+            "focalY": 50
           },
           "mobileMedia": {
             "id": 12,
@@ -7003,72 +3817,13 @@
             "updatedAt": "2025-04-06T06:21:45.790Z",
             "createdAt": "2025-04-06T06:21:45.438Z",
             "url": "/media/youssef.jpg",
-            "thumbnailURL": "/media/youssef-300x200.jpg",
             "filename": "youssef.jpg",
             "mimeType": "image/jpeg",
             "filesize": 505094,
             "width": 1200,
             "height": 800,
             "focalX": 50,
-            "focalY": 50,
-            "sizes": {
-              "thumbnail": {
-                "url": "/media/youssef-300x200.jpg",
-                "width": 300,
-                "height": 200,
-                "mimeType": "image/jpeg",
-                "filesize": 10257,
-                "filename": "youssef-300x200.jpg"
-              },
-              "square": {
-                "url": "/media/youssef-500x500.jpg",
-                "width": 500,
-                "height": 500,
-                "mimeType": "image/jpeg",
-                "filesize": 39993,
-                "filename": "youssef-500x500.jpg"
-              },
-              "small": {
-                "url": "/media/youssef-600x400.jpg",
-                "width": 600,
-                "height": 400,
-                "mimeType": "image/jpeg",
-                "filesize": 33298,
-                "filename": "youssef-600x400.jpg"
-              },
-              "medium": {
-                "url": "/media/youssef-900x600.jpg",
-                "width": 900,
-                "height": 600,
-                "mimeType": "image/jpeg",
-                "filesize": 67561,
-                "filename": "youssef-900x600.jpg"
-              },
-              "large": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "xlarge": {
-                "url": null,
-                "width": null,
-                "height": null,
-                "mimeType": null,
-                "filesize": null,
-                "filename": null
-              },
-              "og": {
-                "url": "/media/youssef-1200x630.jpg",
-                "width": 1200,
-                "height": 630,
-                "mimeType": "image/jpeg",
-                "filesize": 88937,
-                "filename": "youssef-1200x630.jpg"
-              }
-            }
+            "focalY": 50
           },
           "youtubeUrl": "https://www.youtube.com/embed/6SveF9soVDY?si=D9f3eRlDfYf2xOoi"
         }
@@ -7082,72 +3837,13 @@
           "updatedAt": "2025-04-06T06:27:50.405Z",
           "createdAt": "2025-04-06T06:27:47.484Z",
           "url": "/media/boxing1.jpeg",
-          "thumbnailURL": "/media/boxing1-300x300.jpg",
           "filename": "boxing1.jpeg",
           "mimeType": "image/jpeg",
           "filesize": 613021,
           "width": 2048,
           "height": 2048,
           "focalX": 50,
-          "focalY": 50,
-          "sizes": {
-            "thumbnail": {
-              "url": "/media/boxing1-300x300.jpg",
-              "width": 300,
-              "height": 300,
-              "mimeType": "image/jpeg",
-              "filesize": 15790,
-              "filename": "boxing1-300x300.jpg"
-            },
-            "square": {
-              "url": "/media/boxing1-500x500.jpg",
-              "width": 500,
-              "height": 500,
-              "mimeType": "image/jpeg",
-              "filesize": 37933,
-              "filename": "boxing1-500x500.jpg"
-            },
-            "small": {
-              "url": "/media/boxing1-600x600.jpg",
-              "width": 600,
-              "height": 600,
-              "mimeType": "image/jpeg",
-              "filesize": 52853,
-              "filename": "boxing1-600x600.jpg"
-            },
-            "medium": {
-              "url": "/media/boxing1-900x900.jpg",
-              "width": 900,
-              "height": 900,
-              "mimeType": "image/jpeg",
-              "filesize": 109519,
-              "filename": "boxing1-900x900.jpg"
-            },
-            "large": {
-              "url": "/media/boxing1-1400x1400.jpg",
-              "width": 1400,
-              "height": 1400,
-              "mimeType": "image/jpeg",
-              "filesize": 238795,
-              "filename": "boxing1-1400x1400.jpg"
-            },
-            "xlarge": {
-              "url": "/media/boxing1-1920x1920.jpg",
-              "width": 1920,
-              "height": 1920,
-              "mimeType": "image/jpeg",
-              "filesize": 408460,
-              "filename": "boxing1-1920x1920.jpg"
-            },
-            "og": {
-              "url": "/media/boxing1-1200x630.jpg",
-              "width": 1200,
-              "height": 630,
-              "mimeType": "image/jpeg",
-              "filesize": 92233,
-              "filename": "boxing1-1200x630.jpg"
-            }
-          }
+          "focalY": 50
         },
         "kicker": "Har du lyst til at prøve?",
         "title": "BOOK EN PRØVETIME",
@@ -7159,72 +3855,13 @@
           "updatedAt": "2025-06-09T09:09:07.546Z",
           "createdAt": "2025-06-09T09:09:07.303Z",
           "url": "/media/banner-image-2.png",
-          "thumbnailURL": "/media/banner-image-2-300x496.png",
           "filename": "banner-image-2.png",
           "mimeType": "image/png",
           "filesize": 328218,
           "width": 358,
           "height": 592,
           "focalX": 50,
-          "focalY": 50,
-          "sizes": {
-            "thumbnail": {
-              "url": "/media/banner-image-2-300x496.png",
-              "width": 300,
-              "height": 496,
-              "mimeType": "image/png",
-              "filesize": 241035,
-              "filename": "banner-image-2-300x496.png"
-            },
-            "square": {
-              "url": "/media/banner-image-2-500x500.png",
-              "width": 500,
-              "height": 500,
-              "mimeType": "image/png",
-              "filesize": 504532,
-              "filename": "banner-image-2-500x500.png"
-            },
-            "small": {
-              "url": null,
-              "width": null,
-              "height": null,
-              "mimeType": null,
-              "filesize": null,
-              "filename": null
-            },
-            "medium": {
-              "url": null,
-              "width": null,
-              "height": null,
-              "mimeType": null,
-              "filesize": null,
-              "filename": null
-            },
-            "large": {
-              "url": null,
-              "width": null,
-              "height": null,
-              "mimeType": null,
-              "filesize": null,
-              "filename": null
-            },
-            "xlarge": {
-              "url": null,
-              "width": null,
-              "height": null,
-              "mimeType": null,
-              "filesize": null,
-              "filename": null
-            },
-            "og": {
-              "url": null,
-              "width": null,
-              "height": null,
-              "mimeType": null,
-              "filesize": null,
-              "filename": null
-            }
-          }
+          "focalY": 50
         },
         "visibility": true,
         "anchor": null,
@@ -7305,72 +3942,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+18 år",
             "price": "479 dkk / md",
@@ -7412,72 +3990,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+13 år",
             "price": "479 dkk / md",
@@ -7519,72 +4038,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "+15 år",
             "price": "300 dkk / md",
@@ -7626,72 +4086,13 @@
               "updatedAt": "2025-06-07T18:57:43.747Z",
               "createdAt": "2025-06-07T18:57:43.437Z",
               "url": "/media/Assouik%20Banner.jpg",
-              "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
               "filename": "Assouik Banner.jpg",
               "mimeType": "image/jpeg",
               "filesize": 27022,
               "width": 1088,
               "height": 727,
               "focalX": 50,
-              "focalY": 50,
-              "sizes": {
-                "thumbnail": {
-                  "url": "/media/Assouik%20Banner-300x200.jpg",
-                  "width": 300,
-                  "height": 200,
-                  "mimeType": "image/jpeg",
-                  "filesize": 5750,
-                  "filename": "Assouik Banner-300x200.jpg"
-                },
-                "square": {
-                  "url": "/media/Assouik%20Banner-500x500.jpg",
-                  "width": 500,
-                  "height": 500,
-                  "mimeType": "image/jpeg",
-                  "filesize": 17221,
-                  "filename": "Assouik Banner-500x500.jpg"
-                },
-                "small": {
-                  "url": "/media/Assouik%20Banner-600x401.jpg",
-                  "width": 600,
-                  "height": 401,
-                  "mimeType": "image/jpeg",
-                  "filesize": 15342,
-                  "filename": "Assouik Banner-600x401.jpg"
-                },
-                "medium": {
-                  "url": "/media/Assouik%20Banner-900x601.jpg",
-                  "width": 900,
-                  "height": 601,
-                  "mimeType": "image/jpeg",
-                  "filesize": 26426,
-                  "filename": "Assouik Banner-900x601.jpg"
-                },
-                "large": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "xlarge": {
-                  "url": null,
-                  "width": null,
-                  "height": null,
-                  "mimeType": null,
-                  "filesize": null,
-                  "filename": null
-                },
-                "og": {
-                  "url": "/media/Assouik%20Banner-1200x630.jpg",
-                  "width": 1200,
-                  "height": 630,
-                  "mimeType": "image/jpeg",
-                  "filesize": 32601,
-                  "filename": "Assouik Banner-1200x630.jpg"
-                }
-              }
+              "focalY": 50
             },
             "ageRequirement": "13-17 år",
             "price": "300 dkk / md",
@@ -7733,72 +4134,13 @@
         "updatedAt": "2025-06-07T18:57:43.747Z",
         "createdAt": "2025-06-07T18:57:43.437Z",
         "url": "/media/Assouik%20Banner.jpg",
-        "thumbnailURL": "/media/Assouik%20Banner-300x200.jpg",
         "filename": "Assouik Banner.jpg",
         "mimeType": "image/jpeg",
         "filesize": 27022,
         "width": 1088,
         "height": 727,
         "focalX": 50,
-        "focalY": 50,
-        "sizes": {
-          "thumbnail": {
-            "url": "/media/Assouik%20Banner-300x200.jpg",
-            "width": 300,
-            "height": 200,
-            "mimeType": "image/jpeg",
-            "filesize": 5750,
-            "filename": "Assouik Banner-300x200.jpg"
-          },
-          "square": {
-            "url": "/media/Assouik%20Banner-500x500.jpg",
-            "width": 500,
-            "height": 500,
-            "mimeType": "image/jpeg",
-            "filesize": 17221,
-            "filename": "Assouik Banner-500x500.jpg"
-          },
-          "small": {
-            "url": "/media/Assouik%20Banner-600x401.jpg",
-            "width": 600,
-            "height": 401,
-            "mimeType": "image/jpeg",
-            "filesize": 15342,
-            "filename": "Assouik Banner-600x401.jpg"
-          },
-          "medium": {
-            "url": "/media/Assouik%20Banner-900x601.jpg",
-            "width": 900,
-            "height": 601,
-            "mimeType": "image/jpeg",
-            "filesize": 26426,
-            "filename": "Assouik Banner-900x601.jpg"
-          },
-          "large": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "xlarge": {
-            "url": null,
-            "width": null,
-            "height": null,
-            "mimeType": null,
-            "filesize": null,
-            "filename": null
-          },
-          "og": {
-            "url": "/media/Assouik%20Banner-1200x630.jpg",
-            "width": 1200,
-            "height": 630,
-            "mimeType": "image/jpeg",
-            "filesize": 32601,
-            "filename": "Assouik Banner-1200x630.jpg"
-          }
-        }
+        "focalY": 50
       },
       "description": "Træn thaiboksning, Muay Thai og kickboksning hos Assouik Gym i Brønshøj København. Hold for børn, unge, voksne og kæmpere. Start din træning i dag!"
     },

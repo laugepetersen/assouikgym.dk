@@ -8,72 +8,13 @@
       "updatedAt": "2025-06-04T17:47:44.043Z",
       "createdAt": "2025-06-04T17:47:43.912Z",
       "url": "/media/wondr-logo.png",
-      "thumbnailURL": "/media/wondr-logo-300x300.png",
       "filename": "wondr-logo.png",
       "mimeType": "image/png",
       "filesize": 157656,
       "width": 512,
       "height": 512,
       "focalX": 50,
-      "focalY": 50,
-      "sizes": {
-        "thumbnail": {
-          "url": "/media/wondr-logo-300x300.png",
-          "width": 300,
-          "height": 300,
-          "mimeType": "image/png",
-          "filesize": 51319,
-          "filename": "wondr-logo-300x300.png"
-        },
-        "square": {
-          "url": "/media/wondr-logo-500x500.png",
-          "width": 500,
-          "height": 500,
-          "mimeType": "image/png",
-          "filesize": 130676,
-          "filename": "wondr-logo-500x500.png"
-        },
-        "small": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "medium": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "large": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "xlarge": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        },
-        "og": {
-          "url": null,
-          "width": null,
-          "height": null,
-          "mimeType": null,
-          "filesize": null,
-          "filename": null
-        }
-      }
+      "focalY": 50
     },
     "heading": "Vi bruger |Wondr| til holdtilmelding",
     "description": "Hos Assouik Gym ønsker hele tiden at forbedre din oplevelse som medlem hos os, og derfor har vi implementeret et nyt system til håndtering af medlemskaber. Fremover benytter vi appen Wondr, som giver dig større fleksibilitet og kontrol over dit medlemskab.",
